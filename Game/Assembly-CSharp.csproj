@@ -56,6 +56,15 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Player\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\Gooba\GoobaMovement.cs" />
+    <Compile Include="Assets\Scripts\Gooba\DestroyPlayer.cs" />
+    <Compile Include="Assets\Scripts\Gooba\DestroyEnemy.cs" />
+    <Compile Include="Assets\Scripts\Gooba\Turnaround.cs" />
+    <Compile Include="Assets\Scripts\Gooba\EnemyGenerationController.cs" />
+    <Compile Include="Assets\Scripts\TurtleGreen\TurtleMovement.cs" />
+    <Compile Include="Assets\Scripts\TurtleGreen\DestroyPlayerTurtle.cs" />
+    <Compile Include="Assets\Scripts\TurtleGreen\DestroyEnemyTurtle.cs" />
+    <Compile Include="Assets\Scripts\TurtleGreen\TurnaroundTurtle.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
