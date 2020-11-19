@@ -39,9 +39,9 @@ public class TurtleMovement : MonoBehaviour
     {
         Vector2 vector;
         if (sign > 0)
-            vector = Vector2.left;
-        else
             vector = Vector2.right;
+        else
+            vector = Vector2.left;
 
         return vector;
     }

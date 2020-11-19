@@ -37,12 +37,12 @@ public class PlayerMovement : MonoBehaviour
 
         if (movX > 0f)
         {
-            transform.localScale = new Vector3(1f, 1f, 1f);
+            transform.localScale = new Vector3(-1f, 1f, 1f);
 
         }
         else
         {
-            transform.localScale = new Vector3(-1f, 1f, 1f);
+            transform.localScale = new Vector3(1f, 1f, 1f);
         }
 
         if (groundCollider != null)
