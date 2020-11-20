@@ -1,0 +1,3010 @@
+fileFormatVersion: 2
+guid: bdfbb57df39cb6d418e939fddc585522
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3786613215648157364
+    second: NES - Mega Man - Intro & Stage Select_0
+  - first:
+      213: -5527885053563863253
+    second: NES - Mega Man - Intro & Stage Select_1
+  - first:
+      213: 9112677875220311747
+    second: NES - Mega Man - Intro & Stage Select_2
+  - first:
+      213: 1911267498611108536
+    second: NES - Mega Man - Intro & Stage Select_3
+  - first:
+      213: 1386589065782390205
+    second: NES - Mega Man - Intro & Stage Select_4
+  - first:
+      213: 2515948603201930324
+    second: NES - Mega Man - Intro & Stage Select_5
+  - first:
+      213: -5633330253399452300
+    second: NES - Mega Man - Intro & Stage Select_6
+  - first:
+      213: 4965938236116827560
+    second: NES - Mega Man - Intro & Stage Select_7
+  - first:
+      213: -9112900147361283800
+    second: NES - Mega Man - Intro & Stage Select_8
+  - first:
+      213: -2744495604877436940
+    second: NES - Mega Man - Intro & Stage Select_9
+  - first:
+      213: 7013925856978366432
+    second: NES - Mega Man - Intro & Stage Select_10
+  - first:
+      213: -6576988980386137829
+    second: NES - Mega Man - Intro & Stage Select_11
+  - first:
+      213: 7545212005527382812
+    second: NES - Mega Man - Intro & Stage Select_12
+  - first:
+      213: -7967472269558254928
+    second: NES - Mega Man - Intro & Stage Select_13
+  - first:
+      213: -2409017711825877773
+    second: NES - Mega Man - Intro & Stage Select_14
+  - first:
+      213: 727055995301716509
+    second: NES - Mega Man - Intro & Stage Select_15
+  - first:
+      213: 6805794990376744333
+    second: NES - Mega Man - Intro & Stage Select_16
+  - first:
+      213: 9107962140071600918
+    second: NES - Mega Man - Intro & Stage Select_17
+  - first:
+      213: -6653693347461061174
+    second: NES - Mega Man - Intro & Stage Select_18
+  - first:
+      213: 9125324960898531373
+    second: NES - Mega Man - Intro & Stage Select_19
+  - first:
+      213: 4110830329354804951
+    second: NES - Mega Man - Intro & Stage Select_20
+  - first:
+      213: 1359164256208166510
+    second: NES - Mega Man - Intro & Stage Select_21
+  - first:
+      213: -8291001064675371620
+    second: NES - Mega Man - Intro & Stage Select_22
+  - first:
+      213: 3400133586558694556
+    second: NES - Mega Man - Intro & Stage Select_23
+  - first:
+      213: 4985782358607100191
+    second: NES - Mega Man - Intro & Stage Select_24
+  - first:
+      213: -4432669091341805868
+    second: NES - Mega Man - Intro & Stage Select_25
+  - first:
+      213: 522855951757929717
+    second: NES - Mega Man - Intro & Stage Select_26
+  - first:
+      213: -4524989036616150796
+    second: NES - Mega Man - Intro & Stage Select_27
+  - first:
+      213: -3958541778220861686
+    second: NES - Mega Man - Intro & Stage Select_28
+  - first:
+      213: -4253279516138087861
+    second: NES - Mega Man - Intro & Stage Select_29
+  - first:
+      213: 7309146892075289328
+    second: NES - Mega Man - Intro & Stage Select_30
+  - first:
+      213: -7683383386986980141
+    second: NES - Mega Man - Intro & Stage Select_31
+  - first:
+      213: 448604040452405220
+    second: NES - Mega Man - Intro & Stage Select_32
+  - first:
+      213: -6627677487055469019
+    second: NES - Mega Man - Intro & Stage Select_33
+  - first:
+      213: -6158913899878201332
+    second: NES - Mega Man - Intro & Stage Select_34
+  - first:
+      213: -3315350625371507178
+    second: NES - Mega Man - Intro & Stage Select_35
+  - first:
+      213: -9011349474113738304
+    second: NES - Mega Man - Intro & Stage Select_36
+  - first:
+      213: -5339812601850971963
+    second: NES - Mega Man - Intro & Stage Select_37
+  - first:
+      213: -2070216942336058777
+    second: NES - Mega Man - Intro & Stage Select_38
+  - first:
+      213: 8947228366269481591
+    second: NES - Mega Man - Intro & Stage Select_39
+  - first:
+      213: 7761411751884209041
+    second: NES - Mega Man - Intro & Stage Select_40
+  - first:
+      213: -4118756839117127607
+    second: NES - Mega Man - Intro & Stage Select_41
+  - first:
+      213: 2458926614708567871
+    second: NES - Mega Man - Intro & Stage Select_42
+  - first:
+      213: -6307657031472742662
+    second: NES - Mega Man - Intro & Stage Select_43
+  - first:
+      213: -207640803768982412
+    second: NES - Mega Man - Intro & Stage Select_44
+  - first:
+      213: 1326202284295413811
+    second: NES - Mega Man - Intro & Stage Select_45
+  - first:
+      213: -1607360072438948477
+    second: NES - Mega Man - Intro & Stage Select_46
+  - first:
+      213: 7835604505393948683
+    second: NES - Mega Man - Intro & Stage Select_47
+  - first:
+      213: 8608411391885257804
+    second: NES - Mega Man - Intro & Stage Select_48
+  - first:
+      213: -2237695985588837890
+    second: NES - Mega Man - Intro & Stage Select_49
+  - first:
+      213: 2638615475033571100
+    second: NES - Mega Man - Intro & Stage Select_50
+  - first:
+      213: -4548886713671976496
+    second: NES - Mega Man - Intro & Stage Select_51
+  - first:
+      213: 1640804277666979634
+    second: NES - Mega Man - Intro & Stage Select_52
+  - first:
+      213: -7730343776394757669
+    second: NES - Mega Man - Intro & Stage Select_53
+  - first:
+      213: -1797978513556763031
+    second: NES - Mega Man - Intro & Stage Select_54
+  - first:
+      213: -3615691976569877213
+    second: NES - Mega Man - Intro & Stage Select_55
+  - first:
+      213: 3037600407053365556
+    second: NES - Mega Man - Intro & Stage Select_56
+  - first:
+      213: 8073080803967671816
+    second: NES - Mega Man - Intro & Stage Select_57
+  - first:
+      213: 38640299095824952
+    second: NES - Mega Man - Intro & Stage Select_58
+  - first:
+      213: -610638488205177506
+    second: NES - Mega Man - Intro & Stage Select_59
+  - first:
+      213: -6777885902703761514
+    second: NES - Mega Man - Intro & Stage Select_60
+  - first:
+      213: -5991618494663571221
+    second: NES - Mega Man - Intro & Stage Select_61
+  - first:
+      213: 7953226423531005886
+    second: NES - Mega Man - Intro & Stage Select_62
+  - first:
+      213: 1540862189198741070
+    second: NES - Mega Man - Intro & Stage Select_63
+  - first:
+      213: 699289631046559605
+    second: NES - Mega Man - Intro & Stage Select_64
+  - first:
+      213: 3832176469410729380
+    second: NES - Mega Man - Intro & Stage Select_65
+  - first:
+      213: -4537432161330778749
+    second: NES - Mega Man - Intro & Stage Select_66
+  - first:
+      213: -4508620942249675100
+    second: NES - Mega Man - Intro & Stage Select_67
+  - first:
+      213: 2623302721031149545
+    second: NES - Mega Man - Intro & Stage Select_68
+  - first:
+      213: -297766762254137993
+    second: NES - Mega Man - Intro & Stage Select_69
+  - first:
+      213: -884440723435652192
+    second: NES - Mega Man - Intro & Stage Select_70
+  - first:
+      213: -5437127036361865095
+    second: NES - Mega Man - Intro & Stage Select_71
+  - first:
+      213: -2415294103311182610
+    second: NES - Mega Man - Intro & Stage Select_72
+  - first:
+      213: 7699330461353358401
+    second: NES - Mega Man - Intro & Stage Select_73
+  - first:
+      213: -9025159317810671431
+    second: NES - Mega Man - Intro & Stage Select_74
+  - first:
+      213: 2988566090491406105
+    second: NES - Mega Man - Intro & Stage Select_75
+  - first:
+      213: 7959870732192204350
+    second: NES - Mega Man - Intro & Stage Select_76
+  - first:
+      213: 9157210251046338032
+    second: NES - Mega Man - Intro & Stage Select_77
+  - first:
+      213: -7923353914393250007
+    second: NES - Mega Man - Intro & Stage Select_78
+  - first:
+      213: 4044644544548166528
+    second: NES - Mega Man - Intro & Stage Select_79
+  - first:
+      213: -4994212642918021788
+    second: NES - Mega Man - Intro & Stage Select_80
+  - first:
+      213: 1276831732190986314
+    second: NES - Mega Man - Intro & Stage Select_81
+  - first:
+      213: 6176080563082202297
+    second: NES - Mega Man - Intro & Stage Select_82
+  - first:
+      213: 1077843681078794308
+    second: NES - Mega Man - Intro & Stage Select_83
+  - first:
+      213: -5445871947641689725
+    second: NES - Mega Man - Intro & Stage Select_84
+  - first:
+      213: 1612084820376489404
+    second: NES - Mega Man - Intro & Stage Select_85
+  - first:
+      213: -3060980392397375490
+    second: NES - Mega Man - Intro & Stage Select_86
+  - first:
+      213: 9106385029151759079
+    second: NES - Mega Man - Intro & Stage Select_87
+  - first:
+      213: 7899272761180934120
+    second: NES - Mega Man - Intro & Stage Select_88
+  - first:
+      213: 1987073691461705365
+    second: NES - Mega Man - Intro & Stage Select_89
+  - first:
+      213: -1431759456094137221
+    second: NES - Mega Man - Intro & Stage Select_90
+  - first:
+      213: -1609991350148911482
+    second: NES - Mega Man - Intro & Stage Select_91
+  - first:
+      213: -8248264646669788509
+    second: NES - Mega Man - Intro & Stage Select_92
+  - first:
+      213: 6591268771826549226
+    second: NES - Mega Man - Intro & Stage Select_93
+  - first:
+      213: 5065974527900044712
+    second: NES - Mega Man - Intro & Stage Select_94
+  - first:
+      213: -6608353502827624803
+    second: NES - Mega Man - Intro & Stage Select_95
+  - first:
+      213: 6070971175387405107
+    second: NES - Mega Man - Intro & Stage Select_96
+  - first:
+      213: -4673801626397590919
+    second: NES - Mega Man - Intro & Stage Select_97
+  - first:
+      213: 2813738879884145360
+    second: NES - Mega Man - Intro & Stage Select_98
+  - first:
+      213: -131562239754675679
+    second: NES - Mega Man - Intro & Stage Select_99
+  - first:
+      213: 8036583214475755001
+    second: NES - Mega Man - Intro & Stage Select_100
+  - first:
+      213: -7070089900976250208
+    second: NES - Mega Man - Intro & Stage Select_101
+  - first:
+      213: 151469034340689179
+    second: NES - Mega Man - Intro & Stage Select_102
+  - first:
+      213: 17913768175889041
+    second: NES - Mega Man - Intro & Stage Select_103
+  - first:
+      213: 7675230789171288020
+    second: NES - Mega Man - Intro & Stage Select_104
+  - first:
+      213: 6810498297885405982
+    second: NES - Mega Man - Intro & Stage Select_105
+  - first:
+      213: 3711320234573602034
+    second: NES - Mega Man - Intro & Stage Select_106
+  - first:
+      213: 6034987503955084918
+    second: NES - Mega Man - Intro & Stage Select_107
+  - first:
+      213: -4258007624808310264
+    second: NES - Mega Man - Intro & Stage Select_108
+  - first:
+      213: 4786882452617747308
+    second: NES - Mega Man - Intro & Stage Select_109
+  - first:
+      213: 8461697809258376530
+    second: NES - Mega Man - Intro & Stage Select_110
+  - first:
+      213: -6054425807711692757
+    second: NES - Mega Man - Intro & Stage Select_111
+  - first:
+      213: 1444209307240381066
+    second: NES - Mega Man - Intro & Stage Select_112
+  - first:
+      213: 5910458144136562068
+    second: NES - Mega Man - Intro & Stage Select_113
+  - first:
+      213: -871246649893455747
+    second: NES - Mega Man - Intro & Stage Select_114
+  - first:
+      213: -9094741351935574411
+    second: NES - Mega Man - Intro & Stage Select_115
+  - first:
+      213: -4966535508476420538
+    second: NES - Mega Man - Intro & Stage Select_116
+  - first:
+      213: -4063814656945368129
+    second: NES - Mega Man - Intro & Stage Select_117
+  - first:
+      213: 5512295055904626051
+    second: NES - Mega Man - Intro & Stage Select_118
+  - first:
+      213: 5217823870730424434
+    second: NES - Mega Man - Intro & Stage Select_119
+  - first:
+      213: -98603334355394634
+    second: NES - Mega Man - Intro & Stage Select_120
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 157
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4be028448a0cc8430800000000000000
+      internalID: 3786613215648157364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 157
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f722fe4d10943b0800000000000000
+      internalID: -5527885053563863253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 154
+        width: 32
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ce61191f3cb67e70800000000000000
+      internalID: 9112677875220311747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 154
+        width: 33
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bae675e9af268a10800000000000000
+      internalID: 1911267498611108536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 120
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbd666ba8672e3310800000000000000
+      internalID: 1386589065782390205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 119
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454cdfeace17ae220800000000000000
+      internalID: 2515948603201930324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4751aaf2bf362d1b0800000000000000
+      internalID: -5633330253399452300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_7
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adf54cd38e8ae440800000000000000
+      internalID: 4965938236116827560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 119
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8210de22999788180800000000000000
+      internalID: -9112900147361283800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 120
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7d8afc9c799e9d0800000000000000
+      internalID: -2744495604877436940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 117
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef6f12d768765160800000000000000
+      internalID: 7013925856978366432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_11
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 119
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19fc646e57d9b4a0800000000000000
+      internalID: -6576988980386137829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_12
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1be870c75af5b860800000000000000
+      internalID: 7545212005527382812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b2743f2f2add6190800000000000000
+      internalID: -7967472269558254928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_14
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 61
+        width: 204
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f48ef49723719ed0800000000000000
+      internalID: -2409017711825877773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_15
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 105
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12e6cb5395071a00800000000000000
+      internalID: 727055995301716509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_16
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 105
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85f98f2c7a037e50800000000000000
+      internalID: 6805794990376744333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_17
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 110
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 613aca27f4bf56e70800000000000000
+      internalID: 9107962140071600918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_18
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 97
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac5243c372559a3a0800000000000000
+      internalID: -6653693347461061174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_19
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 104
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20cc5234baa3ae70800000000000000
+      internalID: 9125324960898531373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 105
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7de5819876a9c0930800000000000000
+      internalID: 4110830329354804951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_21
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 97
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e12ba90b8bcd210800000000000000
+      internalID: 1359164256208166510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 89
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9593a3957270fc80800000000000000
+      internalID: -8291001064675371620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_23
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 97
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94b4b77b73bf2f20800000000000000
+      internalID: 3400133586558694556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_24
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 97
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f197f2ca3ae013540800000000000000
+      internalID: 4985782358607100191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_25
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 97
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d6d7bb52fefb72c0800000000000000
+      internalID: -4432669091341805868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_26
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 97
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fcea39c7be814700800000000000000
+      internalID: 522855951757929717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_27
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 97
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f015f312720431c0800000000000000
+      internalID: -4524989036616150796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_28
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 97
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a073a98d93f6019c0800000000000000
+      internalID: -3958541778220861686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_29
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 97
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ad42e90d059f4c0800000000000000
+      internalID: -4253279516138087861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_30
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 97
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa4c417f5e4f6560800000000000000
+      internalID: 7309146892075289328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 97
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcd08194832f5590800000000000000
+      internalID: -7683383386986980141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_32
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 97
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e778fb7ff2c93600800000000000000
+      internalID: 448604040452405220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_33
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 89
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5268432c072c504a0800000000000000
+      internalID: -6627677487055469019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_34
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 88
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c084b8b7074278aa0800000000000000
+      internalID: -6158913899878201332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_35
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 88
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616bcd4fb228df1d0800000000000000
+      internalID: -3315350625371507178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 89
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c92c80c56141f280800000000000000
+      internalID: -9011349474113738304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_37
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 89
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8b48beabc25e5b0800000000000000
+      internalID: -5339812601850971963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_38
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 89
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a5010d8ac1543e0800000000000000
+      internalID: -2070216942336058777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_39
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 89
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7728acf6bc0fa2c70800000000000000
+      internalID: 8947228366269481591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_40
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 89
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19bb99addd216bb60800000000000000
+      internalID: 7761411751884209041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_41
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 81
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94086381a7c37d6c0800000000000000
+      internalID: -4118756839117127607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_42
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 81
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f35766abcdf1220800000000000000
+      internalID: 2458926614708567871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe721a6953b678a0800000000000000
+      internalID: -6307657031472742662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_44
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 81
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47429720acf4e1df0800000000000000
+      internalID: -207640803768982412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_45
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 81
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3306db773fd976210800000000000000
+      internalID: 1326202284295413811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_46
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 81
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d5120c78281b9e0800000000000000
+      internalID: -1607360072438948477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 81
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b08e47868c8adbc60800000000000000
+      internalID: 7835604505393948683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_48
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 81
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c2fb53d88377770800000000000000
+      internalID: 8608411391885257804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_49
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 81
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1e8af5b5b12f0e0800000000000000
+      internalID: -2237695985588837890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_50
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 81
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f79386bce3e9420800000000000000
+      internalID: 2638615475033571100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_51
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 72
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9761c82ab1fd0c0800000000000000
+      internalID: -4548886713671976496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_52
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 73
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f18441cce45c610800000000000000
+      internalID: 1640804277666979634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_53
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 73
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9b650ea4d48b490800000000000000
+      internalID: -7730343776394757669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_54
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 65
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96e0aa9611c4c07e0800000000000000
+      internalID: -1797978513556763031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_55
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 73
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d8257dd4b72ddc0800000000000000
+      internalID: -3615691976569877213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_56
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 73
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4317fffe979b72a20800000000000000
+      internalID: 3037600407053365556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_57
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 73
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e948bd738590070800000000000000
+      internalID: 8073080803967671816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_58
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 73
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a1f95b527498000800000000000000
+      internalID: 38640299095824952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_59
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 73
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d4950c7839687f0800000000000000
+      internalID: -610638488205177506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_60
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 73
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697e639aeac10f1a0800000000000000
+      internalID: -6777885902703761514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_61
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 65
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be8caeb59be79dca0800000000000000
+      internalID: -5991618494663571221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_62
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 65
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7e0d05b498f5e60800000000000000
+      internalID: 7953226423531005886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_63
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 65
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e850b4ffd326510800000000000000
+      internalID: 1540862189198741070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_64
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 65
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577e4a5e63064b900800000000000000
+      internalID: 699289631046559605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_65
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 65
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad46d7f130ae2530800000000000000
+      internalID: 3832176469410729380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_66
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 65
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38d22775d7dc701c0800000000000000
+      internalID: -4537432161330778749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_67
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 65
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6325604292e61c0800000000000000
+      internalID: -4508620942249675100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_68
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 63
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e790690de7d76420800000000000000
+      internalID: 2623302721031149545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_69
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 50
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7758ce515be1edbf0800000000000000
+      internalID: -297766762254137993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_70
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 50
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ab7ab619d5d9b3f0800000000000000
+      internalID: -884440723435652192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_71
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 192
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9788afe74c17b84b0800000000000000
+      internalID: -5437127036361865095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_72
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 39
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee49a005fc62b7ed0800000000000000
+      internalID: -2415294103311182610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_73
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 39
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144bf45034489da60800000000000000
+      internalID: 7699330461353358401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_74
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 39
+        width: 64
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b09694fa6130c280800000000000000
+      internalID: -9025159317810671431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_75
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 30
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917a4837605897920800000000000000
+      internalID: 2988566090491406105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_76
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 30
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36485af144277e60800000000000000
+      internalID: 7959870732192204350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_77
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 30
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdbe23d432f41f70800000000000000
+      internalID: 9157210251046338032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_78
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 30
+        width: 35
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927b3e638979a0290800000000000000
+      internalID: -7923353914393250007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_79
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 30
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bd388a8c6712830800000000000000
+      internalID: 4044644544548166528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_80
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 32
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4654b1ecf0ef0bab0800000000000000
+      internalID: -4994212642918021788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_81
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 21
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a40c03b02b738b110800000000000000
+      internalID: 1276831732190986314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_82
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 21
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bc85b2cc88d5b550800000000000000
+      internalID: 6176080563082202297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_83
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 21
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448d9160e1545fe00800000000000000
+      internalID: 1077843681078794308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_84
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 21
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3896d8c21506c64b0800000000000000
+      internalID: -5445871947641689725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_85
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 21
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd075a5a964f5610800000000000000
+      internalID: 1612084820376489404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_86
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 21
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7f7b60d863585d0800000000000000
+      internalID: -3060980392397375490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_87
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 21
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea9682bfe0606e70800000000000000
+      internalID: 9106385029151759079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_88
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 12
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8efcb1269badf9d60800000000000000
+      internalID: 7899272761180934120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_89
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 21
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e59129ef0839b10800000000000000
+      internalID: 1987073691461705365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_90
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74d3b74c5e512ce0800000000000000
+      internalID: -1431759456094137221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_91
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e2ceaa56928a9e0800000000000000
+      internalID: -1609991350148911482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_92
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa95d94107488d80800000000000000
+      internalID: -8248264646669788509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_93
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1c8d3a604e87b50800000000000000
+      internalID: 6591268771826549226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_94
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8adc8a01ef4fd4640800000000000000
+      internalID: 5065974527900044712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_95
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9640c170896a44a0800000000000000
+      internalID: -6608353502827624803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_96
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33b1a9e5e1c604450800000000000000
+      internalID: 6070971175387405107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_97
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97abde30f22532fb0800000000000000
+      internalID: -4673801626397590919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_98
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 4
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2333a7a986c0720800000000000000
+      internalID: 2813738879884145360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_99
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 7
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a519907d89c2ef0800000000000000
+      internalID: -131562239754675679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_100
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 4
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fdb1ba9adda78f60800000000000000
+      internalID: 8036583214475755001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_101
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2eb3aa1bef1ed90800000000000000
+      internalID: -7070089900976250208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_102
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b152952c8402a1200800000000000000
+      internalID: 151469034340689179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_103
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19a66bc2a74af3000800000000000000
+      internalID: 17913768175889041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_104
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d712b5dcb5e38a60800000000000000
+      internalID: 7675230789171288020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_105
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13bcdc4e10c38e50800000000000000
+      internalID: 6810498297885405982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_106
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 8
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc9a750712418330800000000000000
+      internalID: 3711320234573602034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_107
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 12
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6760a2df82590c350800000000000000
+      internalID: 6034987503955084918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_108
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 4
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a556800a488e4c0800000000000000
+      internalID: -4258007624808310264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_109
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 4
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6bd4d98a3c6e6240800000000000000
+      internalID: 4786882452617747308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_110
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 4
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25deb85535dfd6570800000000000000
+      internalID: 8461697809258376530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_111
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 4
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b28136c3ecb5afba0800000000000000
+      internalID: -6054425807711692757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_112
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 4
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a306396bcda0410800000000000000
+      internalID: 1444209307240381066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_113
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 4
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495031dfd5a260250800000000000000
+      internalID: 5910458144136562068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_114
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 4
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78f959b9c5b8e3f0800000000000000
+      internalID: -871246649893455747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_115
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 4
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ef2d92decf8c180800000000000000
+      internalID: -9094741351935574411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_116
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e16e4d442531bb0800000000000000
+      internalID: -4966535508476420538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_117
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 3
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3debbb91e6a97c0800000000000000
+      internalID: -4063814656945368129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_118
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3855650e52b9f7c40800000000000000
+      internalID: 5512295055904626051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_119
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 3
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270d07b4a2f696840800000000000000
+      internalID: 5217823870730424434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NES - Mega Man - Intro & Stage Select_120
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfd3123ac0b1aef0800000000000000
+      internalID: -98603334355394634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

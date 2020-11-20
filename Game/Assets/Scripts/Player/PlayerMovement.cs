@@ -48,10 +48,12 @@ public class PlayerMovement : MonoBehaviour
         if (groundCollider != null)
         {
             canJump = true;
+            anim.SetBool("Jump", false); 
         }
         else
         {
             canJump = false;
+            anim.SetBool("Jump", true);
         }
 
     }
