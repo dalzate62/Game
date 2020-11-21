@@ -4,9 +4,11 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour
 {
+    public GameObject game;
     public float movX, movY, jump;
     private Vector2 ForceVector;
     public Animator anim;
+    public AudioClip jumpclip; 
 
     public float forceMultiplier, jumpMultiplayer;
     private Rigidbody2D rb;
@@ -20,11 +22,13 @@ public class PlayerMovement : MonoBehaviour
     public LayerMask layers;
     public float[] checkRadius;
 
+    private AudioSource audioPlayer;
 
     // Start is called before the first frame update
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
+        audioPlayer = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -48,7 +52,7 @@ public class PlayerMovement : MonoBehaviour
         if (groundCollider != null)
         {
             canJump = true;
-            anim.SetBool("Jump", false); 
+            anim.SetBool("Jump", false);
         }
         else
         {
@@ -72,6 +76,15 @@ public class PlayerMovement : MonoBehaviour
 
         groundCollider = Physics2D.OverlapCircle((Vector2)checkPoint[0].position, checkRadius[0], layers);
 
+    }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("Ground"))
+        {
+            audioPlayer.clip = jumpclip;
+            audioPlayer.Play();
+        }
     }
 
 
