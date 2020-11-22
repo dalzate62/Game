@@ -60,6 +60,11 @@ public class PlayerMovement : MonoBehaviour
             anim.SetBool("Jump", true);
         }
 
+        if (Input.GetButtonDown("Fire1"))
+            anim.SetTrigger("Fire");
+        else if (Input.GetButtonDown("Fire1") && Input.GetButtonDown("Horizontal"))
+            anim.SetTrigger("Fire1");
+
     }
 
     private void FixedUpdate()
