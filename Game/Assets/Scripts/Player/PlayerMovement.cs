@@ -42,11 +42,13 @@ public class PlayerMovement : MonoBehaviour
         if (movX > 0f)
         {
             transform.localScale = new Vector3(-1f, 1f, 1f);
+            //transform.eulerAngles = new Vector3(0, 0, 0);
 
         }
         else
         {
             transform.localScale = new Vector3(1f, 1f, 1f);
+            //transform.eulerAngles = new Vector3(0, 180, 0);
         }
 
         if (groundCollider != null)
@@ -60,10 +62,9 @@ public class PlayerMovement : MonoBehaviour
             anim.SetBool("Jump", true);
         }
 
-        if (Input.GetButtonDown("Fire1"))
+        if (Input.GetKey(KeyCode.X))
             anim.SetTrigger("Fire");
-        else if (Input.GetButtonDown("Fire1") && Input.GetButtonDown("Horizontal"))
-            anim.SetTrigger("Fire1");
+        
 
     }
 

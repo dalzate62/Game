@@ -14,7 +14,7 @@ GameObject:
   - component: {fileID: 2791908665798681632}
   m_Layer: 0
   m_Name: DestroyPlayer
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -138,7 +138,7 @@ GameObject:
   - component: {fileID: 2791908666003997973}
   m_Layer: 0
   m_Name: DestroyEnemy
-  m_TagString: Untagged
+  m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

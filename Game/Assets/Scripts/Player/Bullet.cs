@@ -4,16 +4,9 @@ using UnityEngine;
 
 public class Bullet : MonoBehaviour
 {
-    public float degree;
     public float velocity;
 
-    public Rigidbody2D _rb;
-
-    public Vector2 direction;
-
-    public float lifeTime;
-
-    private float currentTime;
+    private Rigidbody2D _rb;
 
     private DamageType _damageType;
 
@@ -26,30 +19,14 @@ public class Bullet : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        //_rb = GetComponent<Rigidbody2D>();
-        currentTime = Time.timeSinceLevelLoad;
+        _rb = GetComponent<Rigidbody2D>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        _rb.velocity = direction * velocity;
-
-        if (Time.timeSinceLevelLoad > currentTime + lifeTime)
-            Destroy(transform.root.gameObject);
-    }
-
-    public void SetVariables(float degree, DamageType damageType)
-    {
-
-        this.degree = degree;
-
-        _rb.rotation = degree;
-        _damageType = damageType;
-        direction.Set(Mathf.Cos(degree * Mathf.Deg2Rad),
-                        Mathf.Sin(degree * Mathf.Deg2Rad)
-                    );
-
+        _rb.velocity = transform.right * velocity;
+        Destroy(gameObject, 5f);
     }
 
     private void OnCollisionEnter2D(Collision2D other)

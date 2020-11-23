@@ -16,11 +16,9 @@ public class PlayerShoot : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetButtonDown("Fire1"))
+        if (Input.GetKeyDown(KeyCode.X))
         {
-            GameObject go = Instantiate(bullet, bulletPoint.position, Quaternion.identity);
-            float degree = transform.root.gameObject.GetComponent<Rigidbody2D>().rotation;
-            go.GetComponent<Bullet>().SetVariables(degree, Bullet.DamageType.ToEnemy);
+            Instantiate(bullet, bulletPoint.position, Quaternion.identity);
         }
 
     }

@@ -58,19 +58,20 @@
     <Compile Include="Assets\Scripts\Player\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Gooba\DestroyEnemy.cs" />
     <Compile Include="Assets\Scripts\MainMenu\DetectPlayerMenu.cs" />
+    <Compile Include="Assets\Scripts\Player\Bullet.cs" />
+    <Compile Include="Assets\Scripts\Gooba\GoobaPool.cs" />
     <Compile Include="Assets\Scripts\TurtleGreen\DestroyPlayerTurtle.cs" />
     <Compile Include="Assets\Scripts\TurtleGreen\DestroyEnemyTurtle.cs" />
     <Compile Include="Assets\Scripts\MainMenu\MainMenu.cs" />
     <Compile Include="Assets\Scripts\TurtleGreen\TurtleMovement.cs" />
     <Compile Include="Assets\Scripts\Gooba\Turnaround.cs" />
+    <Compile Include="Assets\Scripts\Gooba\GoobaSpawner.cs" />
     <Compile Include="Assets\Scripts\TurtleGreen\TurnaroundTurtle.cs" />
+    <Compile Include="Assets\Scripts\Player\PlayerShoot.cs" />
     <Compile Include="Assets\Scripts\Gooba\DestroyPlayer.cs" />
     <Compile Include="Assets\Scripts\MainMenu\PlayerMenu.cs" />
     <Compile Include="Assets\Scripts\Gooba\GoobaMovement.cs" />
-    <Compile Include="Assets\Scripts\Gooba\GoobaPool.cs" />
-    <Compile Include="Assets\Scripts\Gooba\GoobaSpawner.cs" />
-    <Compile Include="Assets\Scripts\Player\PlayerShoot.cs" />
-    <Compile Include="Assets\Scripts\Player\Bullet.cs" />
+    <Compile Include="Assets\Scripts\Camara\CameraFollow.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
