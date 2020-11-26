@@ -16,6 +16,6 @@ public class MineroShoot : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-      Instantiate(bullet, bulletPoint.position, Quaternion.identity);
+        Instantiate(bullet, bulletPoint.position, Quaternion.identity);
     }
 }
