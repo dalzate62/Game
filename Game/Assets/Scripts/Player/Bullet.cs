@@ -10,6 +10,8 @@ public class Bullet : MonoBehaviour
 
     private DamageType _damageType;
 
+    private Vector2 _direccion;
+
     public enum DamageType
     {
         ToPlayer,
@@ -25,7 +27,7 @@ public class Bullet : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        _rb.velocity = transform.right * velocity;
+        _rb.velocity = _direccion * velocity;
         Destroy(gameObject, 5f);
     }
 
@@ -52,5 +54,13 @@ public class Bullet : MonoBehaviour
 
                 break;
         }
+    }
+
+    public void EnviarDireccion(Vector3 v3)
+    {
+        if (v3.x > 0.5f)
+            _direccion = Vector2.left;
+        else
+            _direccion = Vector2.right;
     }
 }

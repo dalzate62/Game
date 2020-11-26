@@ -63,8 +63,13 @@ public class PlayerMovement : MonoBehaviour
         }
 
         if (Input.GetKey(KeyCode.X))
-            anim.SetTrigger("Fire");
-        
+        {
+            anim.SetBool("Fire", true);
+        }
+        else
+        {
+            anim.SetBool("Fire", false);
+        }
 
     }
 

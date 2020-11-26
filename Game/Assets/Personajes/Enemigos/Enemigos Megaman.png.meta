@@ -1,0 +1,3946 @@
+fileFormatVersion: 2
+guid: de413a01679d322418568c08d3e6ae9e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -560328865007466356
+    second: Enemigos Megaman_0
+  - first:
+      213: 7337844140595729823
+    second: Enemigos Megaman_1
+  - first:
+      213: 6444193691375258030
+    second: Enemigos Megaman_2
+  - first:
+      213: -5462817689007583347
+    second: Enemigos Megaman_3
+  - first:
+      213: 1813348006602428758
+    second: Enemigos Megaman_4
+  - first:
+      213: -3126687675600392125
+    second: Enemigos Megaman_5
+  - first:
+      213: -276117069344361767
+    second: Enemigos Megaman_6
+  - first:
+      213: 8506361798341275460
+    second: Enemigos Megaman_7
+  - first:
+      213: -153600297687545535
+    second: Enemigos Megaman_8
+  - first:
+      213: 4982728185917476237
+    second: Enemigos Megaman_9
+  - first:
+      213: 6711478323449895883
+    second: Enemigos Megaman_10
+  - first:
+      213: 1650288782047934064
+    second: Enemigos Megaman_11
+  - first:
+      213: 4026726916350201727
+    second: Enemigos Megaman_12
+  - first:
+      213: -7214027618649596105
+    second: Enemigos Megaman_13
+  - first:
+      213: 4075225921585314255
+    second: Enemigos Megaman_14
+  - first:
+      213: 1531406885247693866
+    second: Enemigos Megaman_15
+  - first:
+      213: -181086852707360251
+    second: Enemigos Megaman_16
+  - first:
+      213: -715788318125687106
+    second: Enemigos Megaman_17
+  - first:
+      213: -5012454963393472822
+    second: Enemigos Megaman_18
+  - first:
+      213: -3743318619571085751
+    second: Enemigos Megaman_19
+  - first:
+      213: 1671470714932077770
+    second: Enemigos Megaman_20
+  - first:
+      213: 145336931783476195
+    second: Enemigos Megaman_21
+  - first:
+      213: 7768137356615123621
+    second: Enemigos Megaman_22
+  - first:
+      213: 1348704521470088168
+    second: Enemigos Megaman_23
+  - first:
+      213: -346243352967258936
+    second: Enemigos Megaman_24
+  - first:
+      213: -1650026335262667759
+    second: Enemigos Megaman_25
+  - first:
+      213: 2594102702955402940
+    second: Enemigos Megaman_26
+  - first:
+      213: 4350153189639628529
+    second: Enemigos Megaman_27
+  - first:
+      213: -5391395400242685619
+    second: Enemigos Megaman_28
+  - first:
+      213: -3696436818100083615
+    second: Enemigos Megaman_29
+  - first:
+      213: 4009501675179772992
+    second: Enemigos Megaman_30
+  - first:
+      213: 8345163171385813476
+    second: Enemigos Megaman_31
+  - first:
+      213: 3291272229856765453
+    second: Enemigos Megaman_32
+  - first:
+      213: 6919756257475197385
+    second: Enemigos Megaman_33
+  - first:
+      213: -5742172408156568174
+    second: Enemigos Megaman_34
+  - first:
+      213: -5558956878969366693
+    second: Enemigos Megaman_35
+  - first:
+      213: 4509609643992083425
+    second: Enemigos Megaman_36
+  - first:
+      213: -5805355681385732084
+    second: Enemigos Megaman_37
+  - first:
+      213: 4980410787903651366
+    second: Enemigos Megaman_38
+  - first:
+      213: 4506995408603947197
+    second: Enemigos Megaman_39
+  - first:
+      213: -1239596112240360091
+    second: Enemigos Megaman_40
+  - first:
+      213: 3683009759306005683
+    second: Enemigos Megaman_41
+  - first:
+      213: -3370611113662974055
+    second: Enemigos Megaman_42
+  - first:
+      213: -2832016350315244592
+    second: Enemigos Megaman_43
+  - first:
+      213: -6065543717393688710
+    second: Enemigos Megaman_44
+  - first:
+      213: -718432404081250390
+    second: Enemigos Megaman_45
+  - first:
+      213: 2856469111251921797
+    second: Enemigos Megaman_46
+  - first:
+      213: 1737678975913257052
+    second: Enemigos Megaman_47
+  - first:
+      213: -5910977111915499857
+    second: Enemigos Megaman_48
+  - first:
+      213: 5696389319239392562
+    second: Enemigos Megaman_49
+  - first:
+      213: 1112362659089671503
+    second: Enemigos Megaman_50
+  - first:
+      213: 2533270010709449662
+    second: Enemigos Megaman_51
+  - first:
+      213: -859177595711476007
+    second: Enemigos Megaman_52
+  - first:
+      213: -1607025609561906278
+    second: Enemigos Megaman_53
+  - first:
+      213: 3501964800433840497
+    second: Enemigos Megaman_54
+  - first:
+      213: -7402546600251413199
+    second: Enemigos Megaman_55
+  - first:
+      213: 2264250917373599412
+    second: Enemigos Megaman_56
+  - first:
+      213: -2980242117265100419
+    second: Enemigos Megaman_57
+  - first:
+      213: -50619808789807237
+    second: Enemigos Megaman_58
+  - first:
+      213: 6945896626863415534
+    second: Enemigos Megaman_59
+  - first:
+      213: 3026184738860790018
+    second: Enemigos Megaman_60
+  - first:
+      213: -480171181315626412
+    second: Enemigos Megaman_61
+  - first:
+      213: -2731773237089172320
+    second: Enemigos Megaman_62
+  - first:
+      213: -4698713620646287390
+    second: Enemigos Megaman_63
+  - first:
+      213: 7532385933180996712
+    second: Enemigos Megaman_64
+  - first:
+      213: 3245870206502305145
+    second: Enemigos Megaman_65
+  - first:
+      213: -7645566105925645200
+    second: Enemigos Megaman_66
+  - first:
+      213: -7440465040283340886
+    second: Enemigos Megaman_67
+  - first:
+      213: 4262585424697774812
+    second: Enemigos Megaman_68
+  - first:
+      213: 8759244116329318331
+    second: Enemigos Megaman_69
+  - first:
+      213: 6684731625323959448
+    second: Enemigos Megaman_70
+  - first:
+      213: 3029723591234906518
+    second: Enemigos Megaman_71
+  - first:
+      213: -4370348501177849218
+    second: Enemigos Megaman_72
+  - first:
+      213: -1365860994767174626
+    second: Enemigos Megaman_73
+  - first:
+      213: 8912467660300699360
+    second: Enemigos Megaman_74
+  - first:
+      213: 3263204105458968561
+    second: Enemigos Megaman_75
+  - first:
+      213: -6850965221528860304
+    second: Enemigos Megaman_76
+  - first:
+      213: -6668214216311134
+    second: Enemigos Megaman_77
+  - first:
+      213: -6647612563386909240
+    second: Enemigos Megaman_78
+  - first:
+      213: 128715861838470601
+    second: Enemigos Megaman_79
+  - first:
+      213: -2204563305137723419
+    second: Enemigos Megaman_80
+  - first:
+      213: 5961431030016372361
+    second: Enemigos Megaman_81
+  - first:
+      213: 5339793123889684146
+    second: Enemigos Megaman_82
+  - first:
+      213: 4958727477785524839
+    second: Enemigos Megaman_83
+  - first:
+      213: -8157412610760609530
+    second: Enemigos Megaman_84
+  - first:
+      213: -4276786529982484869
+    second: Enemigos Megaman_85
+  - first:
+      213: 1862642640040496287
+    second: Enemigos Megaman_86
+  - first:
+      213: -5856831570604955088
+    second: Enemigos Megaman_87
+  - first:
+      213: 7578430127296408618
+    second: Enemigos Megaman_88
+  - first:
+      213: -1276842790307389151
+    second: Enemigos Megaman_89
+  - first:
+      213: -8710822570940553490
+    second: Enemigos Megaman_90
+  - first:
+      213: 8761808209905431733
+    second: Enemigos Megaman_91
+  - first:
+      213: 5813401042999144380
+    second: Enemigos Megaman_92
+  - first:
+      213: 7903257697119228676
+    second: Enemigos Megaman_93
+  - first:
+      213: -225289221986624709
+    second: Enemigos Megaman_94
+  - first:
+      213: -7686879799405333916
+    second: Enemigos Megaman_95
+  - first:
+      213: 3164267647164858313
+    second: Enemigos Megaman_96
+  - first:
+      213: 1171903183192852367
+    second: Enemigos Megaman_97
+  - first:
+      213: -6073898742061533713
+    second: Enemigos Megaman_98
+  - first:
+      213: -1128884655348166113
+    second: Enemigos Megaman_99
+  - first:
+      213: 3853707865416426098
+    second: Enemigos Megaman_100
+  - first:
+      213: 5175283609820974817
+    second: Enemigos Megaman_101
+  - first:
+      213: -479815815507412406
+    second: Enemigos Megaman_102
+  - first:
+      213: -4080479214211305486
+    second: Enemigos Megaman_103
+  - first:
+      213: -713452587073532963
+    second: Enemigos Megaman_104
+  - first:
+      213: -5106467077930885927
+    second: Enemigos Megaman_105
+  - first:
+      213: 994854700443651566
+    second: Enemigos Megaman_106
+  - first:
+      213: -9016064679214667135
+    second: Enemigos Megaman_107
+  - first:
+      213: 7165649846659586905
+    second: Enemigos Megaman_108
+  - first:
+      213: -6706041015858225604
+    second: Enemigos Megaman_109
+  - first:
+      213: 278140321701091208
+    second: Enemigos Megaman_110
+  - first:
+      213: 6376161111722567842
+    second: Enemigos Megaman_111
+  - first:
+      213: 4853840592317208815
+    second: Enemigos Megaman_112
+  - first:
+      213: 2190552258400644067
+    second: Enemigos Megaman_113
+  - first:
+      213: -5947423967231355564
+    second: Enemigos Megaman_114
+  - first:
+      213: -8073034450008164151
+    second: Enemigos Megaman_115
+  - first:
+      213: 8106676890494630668
+    second: Enemigos Megaman_116
+  - first:
+      213: 827836844764470023
+    second: Enemigos Megaman_117
+  - first:
+      213: -144402540662780716
+    second: Enemigos Megaman_118
+  - first:
+      213: 2407954728877039313
+    second: Enemigos Megaman_119
+  - first:
+      213: -9027689187747181238
+    second: Enemigos Megaman_120
+  - first:
+      213: -4774738403635345847
+    second: Enemigos Megaman_121
+  - first:
+      213: -6541305674483570938
+    second: Enemigos Megaman_122
+  - first:
+      213: -9210880685452745042
+    second: Enemigos Megaman_123
+  - first:
+      213: 3827414041280954184
+    second: Enemigos Megaman_124
+  - first:
+      213: 4661790728275644654
+    second: Enemigos Megaman_125
+  - first:
+      213: -2613178881578905383
+    second: Enemigos Megaman_126
+  - first:
+      213: -2998404880646952798
+    second: Enemigos Megaman_127
+  - first:
+      213: -4077330134104524127
+    second: Enemigos Megaman_128
+  - first:
+      213: 2158350006151778858
+    second: Enemigos Megaman_129
+  - first:
+      213: -4238333077837741239
+    second: Enemigos Megaman_130
+  - first:
+      213: -6661517234683691477
+    second: Enemigos Megaman_131
+  - first:
+      213: -8064811469613328894
+    second: Enemigos Megaman_132
+  - first:
+      213: 1528674222999472617
+    second: Enemigos Megaman_133
+  - first:
+      213: -3379718248931786409
+    second: Enemigos Megaman_134
+  - first:
+      213: 7660156334066963941
+    second: Enemigos Megaman_135
+  - first:
+      213: -7321968011806923818
+    second: Enemigos Megaman_136
+  - first:
+      213: 884485679353054194
+    second: Enemigos Megaman_137
+  - first:
+      213: 9015870860968571456
+    second: Enemigos Megaman_138
+  - first:
+      213: -7620845812766313486
+    second: Enemigos Megaman_139
+  - first:
+      213: 4003275870166294927
+    second: Enemigos Megaman_140
+  - first:
+      213: -5376852018881167700
+    second: Enemigos Megaman_141
+  - first:
+      213: 7458292693210190935
+    second: Enemigos Megaman_142
+  - first:
+      213: 5055926874054106439
+    second: Enemigos Megaman_143
+  - first:
+      213: -8883672278118839773
+    second: Enemigos Megaman_144
+  - first:
+      213: 7501220728685993103
+    second: Enemigos Megaman_145
+  - first:
+      213: -5453227180995763283
+    second: Enemigos Megaman_146
+  - first:
+      213: 4424036194641035395
+    second: Enemigos Megaman_147
+  - first:
+      213: -7031275448248449446
+    second: Enemigos Megaman_148
+  - first:
+      213: -6871222587841161379
+    second: Enemigos Megaman_149
+  - first:
+      213: 6562707909636008163
+    second: Enemigos Megaman_150
+  - first:
+      213: 2619032330719572925
+    second: Enemigos Megaman_151
+  - first:
+      213: 2013792670715190253
+    second: Enemigos Megaman_152
+  - first:
+      213: -8481040857695661684
+    second: Enemigos Megaman_153
+  - first:
+      213: 3537724174858340268
+    second: Enemigos Megaman_154
+  - first:
+      213: 6834564726660115847
+    second: Enemigos Megaman_155
+  - first:
+      213: -3154811931769168088
+    second: Enemigos Megaman_156
+  - first:
+      213: 3159187963700069934
+    second: Enemigos Megaman_157
+  - first:
+      213: -7154570941664305400
+    second: Enemigos Megaman_158
+  - first:
+      213: 9160783261081265188
+    second: Enemigos Megaman_159
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Enemigos Megaman_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 554
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8805d3bddf4938f0800000000000000
+      internalID: -560328865007466356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_1
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 552
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f95d3694e5245d560800000000000000
+      internalID: 7337844140595729823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_2
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 550
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea94c3ef4006e6950800000000000000
+      internalID: 6444193691375258030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_3
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 551
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f8bfd414c2034b0800000000000000
+      internalID: -5462817689007583347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_4
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 547
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65153bb876e4a2910800000000000000
+      internalID: 1813348006602428758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_5
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 548
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3403f3cff16cb94d0800000000000000
+      internalID: -3126687675600392125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_6
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 546
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2be450df80b2cf0800000000000000
+      internalID: -276117069344361767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_7
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 546
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fa519acfaac0670800000000000000
+      internalID: 8506361798341275460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_8
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 546
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14980f2d75d4eddf0800000000000000
+      internalID: -153600297687545535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_9
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 546
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d00fda2e4362540800000000000000
+      internalID: 4982728185917476237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_10
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 533
+        width: 56
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb17fae9f5f32d50800000000000000
+      internalID: 6711478323449895883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 505
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07677c657e007e610800000000000000
+      internalID: 1650288782047934064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_12
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 505
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fce80cbcec1e730800000000000000
+      internalID: 4026726916350201727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_13
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 505
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f98863a10a2eb90800000000000000
+      internalID: -7214027618649596105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_14
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 521
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc97e8b526c1e8830800000000000000
+      internalID: 4075225921585314255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 522
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24b6c9c276a04510800000000000000
+      internalID: 1531406885247693866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_16
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 509
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50262e68776ac7df0800000000000000
+      internalID: -181086852707360251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_17
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 510
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe7ebb21520116f0800000000000000
+      internalID: -715788318125687106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_18
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 508
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6d94694ce207ab0800000000000000
+      internalID: -5012454963393472822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_19
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 506
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e1c576c8f0d0cc0800000000000000
+      internalID: -3743318619571085751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_20
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 506
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4aef762c1423710800000000000000
+      internalID: 1671470714932077770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_21
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 506
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e303bf5b27540200800000000000000
+      internalID: 145336931783476195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_22
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 506
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a28c7bb4c7fdcb60800000000000000
+      internalID: 7768137356615123621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_23
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 502
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e31035dd9f87b210800000000000000
+      internalID: 1348704521470088168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_24
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 501
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccdb844185e13bf0800000000000000
+      internalID: -346243352967258936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_25
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 469
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c01a05acde919e0800000000000000
+      internalID: -1650026335262667759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_26
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 469
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb699880aaa100420800000000000000
+      internalID: 2594102702955402940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_27
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 469
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6a0032749de5c30800000000000000
+      internalID: 4350153189639628529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_28
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 474
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d491cd4c27aed25b0800000000000000
+      internalID: -5391395400242685619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_29
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 469
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 164287a6c4e93bcc0800000000000000
+      internalID: -3696436818100083615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_30
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 467
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c8c63c78c94a730800000000000000
+      internalID: 4009501675179772992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_31
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 473
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9af1790b9ffc370800000000000000
+      internalID: 8345163171385813476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_32
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 473
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0668b7b7a2fcad20800000000000000
+      internalID: 3291272229856765453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_33
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 474
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9781b57a9e70060800000000000000
+      internalID: 6919756257475197385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_34
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 469
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29547cc3e94bf40b0800000000000000
+      internalID: -5742172408156568174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_35
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 469
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b571153db2e9ad2b0800000000000000
+      internalID: -5558956878969366693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_36
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 469
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ebe2d9041a559e30800000000000000
+      internalID: 4509609643992083425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_37
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 473
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08253014cb3f6fa0800000000000000
+      internalID: -5805355681385732084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_38
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 429
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62e35886939fd1540800000000000000
+      internalID: 4980410787903651366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_39
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 428
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db0a72ee1701c8e30800000000000000
+      internalID: 4506995408603947197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_40
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 429
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56545f057e11ccee0800000000000000
+      internalID: -1239596112240360091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_41
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 428
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc3bb7dcddac1330800000000000000
+      internalID: 3683009759306005683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_42
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 428
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9977226ec0f2931d0800000000000000
+      internalID: -3370611113662974055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_43
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 430
+        width: 40
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d39c515228a2b8d0800000000000000
+      internalID: -2832016350315244592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_44
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 430
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a77952b202cd2dba0800000000000000
+      internalID: -6065543717393688710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_45
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 434
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf6b9fe88d9706f0800000000000000
+      internalID: -718432404081250390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_46
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 429
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58beb00c58734a720800000000000000
+      internalID: 2856469111251921797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_47
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 429
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5869fc62d97d1810800000000000000
+      internalID: 1737678975913257052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_48
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 429
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faeefc862adf7fda0800000000000000
+      internalID: -5910977111915499857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_49
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 433
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dd793b7e3ad0f40800000000000000
+      internalID: 5696389319239392562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_50
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 389
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45e274e1f7ef6f00800000000000000
+      internalID: 1112362659089671503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_51
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 388
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb9c7427abf72320800000000000000
+      internalID: 2533270010709449662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_52
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 406
+        width: 5
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dea4a067869314f0800000000000000
+      internalID: -859177595711476007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_53
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 389
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a936b15f8b2b2b9e0800000000000000
+      internalID: -1607025609561906278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_54
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 389
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 171e7c98e6a799030800000000000000
+      internalID: 3501964800433840497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_55
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 392
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13d2db2661fd44990800000000000000
+      internalID: -7402546600251413199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_56
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 393
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bed76c763c3c6f10800000000000000
+      internalID: 2264250917373599412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_57
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 393
+        width: 37
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7171c7959d04a6d0800000000000000
+      internalID: -2980242117265100419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_58
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 394
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f3c765d892c4ff0800000000000000
+      internalID: -50619808789807237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_59
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 389
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee027c26e28c46060800000000000000
+      internalID: 6945896626863415534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_60
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 389
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20171809cfa2ff920800000000000000
+      internalID: 3026184738860790018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_61
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 389
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a6d4acad61659f0800000000000000
+      internalID: -480171181315626412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_62
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 393
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a48164e6bac61ad0800000000000000
+      internalID: -2731773237089172320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_63
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 349
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e7a61c5bd0daceb0800000000000000
+      internalID: -4698713620646287390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_64
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 327
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c07621919688860800000000000000
+      internalID: 7532385933180996712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_65
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 327
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97df79561c5ab0d20800000000000000
+      internalID: 3245870206502305145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_66
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 327
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c0985722e75e590800000000000000
+      internalID: -7645566105925645200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_67
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 342
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafe23697782eb890800000000000000
+      internalID: -7440465040283340886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_68
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 342
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd25edf0cdeb72b30800000000000000
+      internalID: 4262585424697774812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_69
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 342
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb74db68d161f8970800000000000000
+      internalID: 8759244116329318331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_70
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 354
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 894114afeffe4cc50800000000000000
+      internalID: 6684731625323959448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_71
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 349
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6996d27dd8dbb0a20800000000000000
+      internalID: 3029723591234906518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_72
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 349
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a22aa71376953c0800000000000000
+      internalID: -4370348501177849218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_73
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 349
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14475279ac7b0de0800000000000000
+      internalID: -1365860994767174626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_74
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 349
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e64164ed127fab70800000000000000
+      internalID: 8912467660300699360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_75
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 334
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f76a7f38da394d20800000000000000
+      internalID: 3263204105458968561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_76
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 309
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0798732dd6b7ce0a0800000000000000
+      internalID: -6850965221528860304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_77
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 306
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aeb9546b4f48eff0800000000000000
+      internalID: -6668214216311134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_78
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 307
+        width: 32
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cd36ea189feeb3a0800000000000000
+      internalID: -6647612563386909240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_79
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 304
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd17d5f46a49c100800000000000000
+      internalID: 128715861838470601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_80
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 314
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7a760ba51d761e0800000000000000
+      internalID: -2204563305137723419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_81
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 309
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98eed11dfe14bb250800000000000000
+      internalID: 5961431030016372361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_82
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 309
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be94830e81ca1a40800000000000000
+      internalID: 5339793123889684146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_83
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 309
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76aff5b5e50f0d440800000000000000
+      internalID: 4958727477785524839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_84
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 309
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6017259437c0bce80800000000000000
+      internalID: -8157412610760609530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 266
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ee7347f4dc5a4c0800000000000000
+      internalID: -4276786529982484869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_86
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 263
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c0c17cc9f69d910800000000000000
+      internalID: 1862642640040496287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_87
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 263
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a6cc4a7ba58bea0800000000000000
+      internalID: -5856831570604955088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_88
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 263
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2cee9c6c0efb2960800000000000000
+      internalID: 7578430127296408618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_89
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 270
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121a5b94f3eb74ee0800000000000000
+      internalID: -1276842790307389151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_90
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 266
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee622ad0601fc1780800000000000000
+      internalID: -8710822570940553490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_91
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 263
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4b3851522389970800000000000000
+      internalID: 8761808209905431733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_92
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 274
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbf69d8a2795da050800000000000000
+      internalID: 5813401042999144380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_93
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 269
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403d92590030ead60800000000000000
+      internalID: 7903257697119228676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_94
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 269
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3b53cf65ac9fdcf0800000000000000
+      internalID: -225289221986624709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_95
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 269
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 462b15d9c87b25590800000000000000
+      internalID: -7686879799405333916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_96
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 269
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfb58bf8acb9eb20800000000000000
+      internalID: 3164267647164858313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_97
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 216
+        width: 16
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f870c517cbf634010800000000000000
+      internalID: 1171903183192852367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_98
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 224
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe5fab5664d25bba0800000000000000
+      internalID: -6073898742061533713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_99
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 228
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12559513656550f0800000000000000
+      internalID: -1128884655348166113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_100
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 242
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2726642c2ee1b7530800000000000000
+      internalID: 3853707865416426098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_101
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 229
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eec747f50d42d740800000000000000
+      internalID: 5175283609820974817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_102
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 226
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4af017de0a5759f0800000000000000
+      internalID: -479815815507412406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_103
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 223
+        width: 12
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffe19326c93f57c0800000000000000
+      internalID: -4080479214211305486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_104
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 227
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb066fe6ae4916f0800000000000000
+      internalID: -713452587073532963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_105
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 227
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcd3b27f3f2229b0800000000000000
+      internalID: -5106467077930885927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_106
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 227
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed421f341f6ecd00800000000000000
+      internalID: 994854700443651566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_107
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 227
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18aa67381f080e280800000000000000
+      internalID: -9016064679214667135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_108
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 227
+        width: 24
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b1afef190817360800000000000000
+      internalID: 7165649846659586905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_109
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 218
+        width: 14
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e1298e93b5fe2a0800000000000000
+      internalID: -6706041015858225604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_110
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 220
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887d4b026272cd300800000000000000
+      internalID: 278140321701091208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_111
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 189
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a822eeafbcac7850800000000000000
+      internalID: 6376161111722567842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_112
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 189
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8507d4d4e4c5340800000000000000
+      internalID: 4853840592317208815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_113
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 189
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb66e74ca7666e10800000000000000
+      internalID: 2190552258400644067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_114
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 191
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 455d780a961867da0800000000000000
+      internalID: -5947423967231355564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_115
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 194
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8b5c3c0f1d6ff80800000000000000
+      internalID: -8073034450008164151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_116
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 185
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0bfcce4ea3b08070800000000000000
+      internalID: 8106676890494630668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_117
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 185
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b9a2869311d7b00800000000000000
+      internalID: 827836844764470023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_118
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 185
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dc812387aafefdf0800000000000000
+      internalID: -144402540662780716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_119
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 185
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de10f96116ca6120800000000000000
+      internalID: 2407954728877039313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_120
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 174
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dc1b5b38437b280800000000000000
+      internalID: -9027689187747181238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_121
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 146
+        width: 80
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94646e338b8bcbdb0800000000000000
+      internalID: -4774738403635345847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_122
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 149
+        width: 80
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607e829752d9835a0800000000000000
+      internalID: -6541305674483570938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_123
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 151
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6251361d06c2080800000000000000
+      internalID: -9210880685452745042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_124
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 154
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fb4e2cac4bd1530800000000000000
+      internalID: 3827414041280954184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_125
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 145
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee05418d7f102b040800000000000000
+      internalID: 4661790728275644654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_126
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 145
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0dfe407af1cbbd0800000000000000
+      internalID: -2613178881578905383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_127
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 145
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8ad34b5a68366d0800000000000000
+      internalID: -2998404880646952798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_128
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 145
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa34bc78d96a67c0800000000000000
+      internalID: -4077330134104524127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_129
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 134
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2293a925eff3fd10800000000000000
+      internalID: 2158350006151778858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_130
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 102
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94381b7758a6e25c0800000000000000
+      internalID: -4238333077837741239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_131
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 109
+        width: 80
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e39898e598d83a0800000000000000
+      internalID: -6661517234683691477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_132
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 109
+        width: 80
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 206933592b8041090800000000000000
+      internalID: -8064811469613328894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_133
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 114
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e90e274b11f63510800000000000000
+      internalID: 1528674222999472617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_134
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 105
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751048bb824d811d0800000000000000
+      internalID: -3379718248931786409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_135
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 105
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e51500c9975e4a60800000000000000
+      internalID: 7660156334066963941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_136
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 105
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d3a97ff2e4236a90800000000000000
+      internalID: -7321968011806923818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_137
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 104
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f342c60a03564c00800000000000000
+      internalID: 884485679353054194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_138
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 72
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042b3d8a7cece1d70800000000000000
+      internalID: 9015870860968571456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_139
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 8
+        width: 16
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f37a0a3c115d3690800000000000000
+      internalID: -7620845812766313486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_140
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 8
+        width: 19
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f81a723913e7e8730800000000000000
+      internalID: 4003275870166294927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_141
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 8
+        width: 16
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caefebc93959165b0800000000000000
+      internalID: -5376852018881167700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_142
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 48
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7545fa150bd218760800000000000000
+      internalID: 7458292693210190935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_143
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 32
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d985a54b24a2640800000000000000
+      internalID: 5055926874054106439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_144
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 30
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32acdb9712bd6b480800000000000000
+      internalID: -8883672278118839773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_145
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 30
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c10237280b91860800000000000000
+      internalID: 7501220728685993103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_146
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 32
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da32e3575ce3254b0800000000000000
+      internalID: -5453227180995763283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_147
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 32
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380cc0fba75556d30800000000000000
+      internalID: 4424036194641035395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_148
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 32
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a56c93dab34eb6e90800000000000000
+      internalID: -7031275448248449446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_149
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 30
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57561f267384a0a0800000000000000
+      internalID: -6871222587841161379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_150
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 32
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e82086b21c631b50800000000000000
+      internalID: 6562707909636008163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_151
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 32
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3bdcf470ca85420800000000000000
+      internalID: 2619032330719572925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_152
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 30
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb9345b3cd62fb10800000000000000
+      internalID: 2013792670715190253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_153
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 32
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81d97f364a4d4a80800000000000000
+      internalID: -8481040857695661684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_154
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 32
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca74eb3b465881130800000000000000
+      internalID: 3537724174858340268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_155
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 30
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78dadf6686049de50800000000000000
+      internalID: 6834564726660115847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_156
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 29
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f1cb1534bd734d0800000000000000
+      internalID: -3154811931769168088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_157
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 48
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e26480307b0b7db20800000000000000
+      internalID: 3159187963700069934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_158
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 72
+        width: 31
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f54c592abd5bc90800000000000000
+      internalID: -7154570941664305400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemigos Megaman_159
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 72
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424e71d07d3a12f70800000000000000
+      internalID: 9160783261081265188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

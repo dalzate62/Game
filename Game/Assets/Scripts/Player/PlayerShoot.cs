@@ -18,7 +18,8 @@ public class PlayerShoot : MonoBehaviour
     {
         if (Input.GetKeyDown(KeyCode.X))
         {
-            Instantiate(bullet, bulletPoint.position, Quaternion.identity);
+            GameObject bj = Instantiate(bullet, bulletPoint.position, Quaternion.identity);
+            bj.GetComponent<Bullet>().EnviarDireccion(transform.root.localScale);
         }
 
     }

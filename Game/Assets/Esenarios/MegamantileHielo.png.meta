@@ -1,0 +1,922 @@
+fileFormatVersion: 2
+guid: dc82cff4243dcfc44b2d2363ae0e6870
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5521894617221984030
+    second: MegamantileHielo_0
+  - first:
+      213: -117242602633063907
+    second: MegamantileHielo_1
+  - first:
+      213: -4648755460667578518
+    second: MegamantileHielo_2
+  - first:
+      213: -5148292051858082496
+    second: MegamantileHielo_3
+  - first:
+      213: 6645639555090210721
+    second: MegamantileHielo_4
+  - first:
+      213: -5644156542059258708
+    second: MegamantileHielo_5
+  - first:
+      213: -3574490860301423426
+    second: MegamantileHielo_6
+  - first:
+      213: 3441019376712760607
+    second: MegamantileHielo_7
+  - first:
+      213: -8449662649879146448
+    second: MegamantileHielo_8
+  - first:
+      213: 7038161102789819184
+    second: MegamantileHielo_9
+  - first:
+      213: -8362184454075191957
+    second: MegamantileHielo_10
+  - first:
+      213: -2062070538500792501
+    second: MegamantileHielo_11
+  - first:
+      213: 2616910956351100733
+    second: MegamantileHielo_12
+  - first:
+      213: 7309525483647783947
+    second: MegamantileHielo_13
+  - first:
+      213: 2638982639797719826
+    second: MegamantileHielo_14
+  - first:
+      213: -8910459034002351150
+    second: MegamantileHielo_15
+  - first:
+      213: 4168916447771226912
+    second: MegamantileHielo_16
+  - first:
+      213: -3214888187463360242
+    second: MegamantileHielo_17
+  - first:
+      213: -2436005513395873622
+    second: MegamantileHielo_18
+  - first:
+      213: -8102533236326798083
+    second: MegamantileHielo_19
+  - first:
+      213: -7155632204250292898
+    second: MegamantileHielo_20
+  - first:
+      213: 5287862902113484643
+    second: MegamantileHielo_21
+  - first:
+      213: 1008862639314322391
+    second: MegamantileHielo_22
+  - first:
+      213: 8344247204394103727
+    second: MegamantileHielo_23
+  - first:
+      213: -3319716761443598471
+    second: MegamantileHielo_24
+  - first:
+      213: -9063317475676871065
+    second: MegamantileHielo_25
+  - first:
+      213: -8674670289533224411
+    second: MegamantileHielo_26
+  - first:
+      213: 9126887231473010742
+    second: MegamantileHielo_27
+  - first:
+      213: -2650056137270608871
+    second: MegamantileHielo_28
+  - first:
+      213: -5661043434265269438
+    second: MegamantileHielo_29
+  - first:
+      213: 4361985054961765472
+    second: MegamantileHielo_30
+  - first:
+      213: 5441715561835529762
+    second: MegamantileHielo_31
+  - first:
+      213: -771208752395136875
+    second: MegamantileHielo_32
+  - first:
+      213: -3495855884486832390
+    second: MegamantileHielo_33
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MegamantileHielo_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 90
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e097551a1a4e53b0800000000000000
+      internalID: -5521894617221984030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_1
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 91
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12938d59787f5ef0800000000000000
+      internalID: -117242602633063907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 91
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a676047e98d4c7fb0800000000000000
+      internalID: -4648755460667578518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_3
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0453809d7a79d88b0800000000000000
+      internalID: -5148292051858082496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_4
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1afdf6a17fd0a3c50800000000000000
+      internalID: 6645639555090210721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_5
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 91
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac5cdd678deba1b0800000000000000
+      internalID: -5644156542059258708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_6
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc6ad2408bd46ec0800000000000000
+      internalID: -3574490860301423426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_7
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 73
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d333e44e4f0cf20800000000000000
+      internalID: 3441019376712760607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 73
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03051129694ccba80800000000000000
+      internalID: -8449662649879146448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_9
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b32c3bb329ca160800000000000000
+      internalID: 7038161102789819184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_10
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6ded843b8d83fb80800000000000000
+      internalID: -8362184454075191957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_11
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 73
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f9cd245cd0263e0800000000000000
+      internalID: -2062070538500792501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37922a56a2215420800000000000000
+      internalID: 2616910956351100733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_13
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04dd7923b6a07560800000000000000
+      internalID: 7309525483647783947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213d09d9abc8f9420800000000000000
+      internalID: 2638982639797719826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_15
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2db9e9cd7b0b75480800000000000000
+      internalID: -8910459034002351150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 023ffafdb67fad930800000000000000
+      internalID: 4168916447771226912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_17
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 56
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01a5a90a3c6263d0800000000000000
+      internalID: -3214888187463360242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_18
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8552f54e1913ed0800000000000000
+      internalID: -2436005513395873622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_19
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfce1fb53f40e8f80800000000000000
+      internalID: -8102533236326798083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5dd0522c6612bc90800000000000000
+      internalID: -7155632204250292898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_21
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fb07d0b43426940800000000000000
+      internalID: 5287862902113484643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_22
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d34e7ba933300e00800000000000000
+      internalID: 1008862639314322391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_23
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 39
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3f4f76f98bcc370800000000000000
+      internalID: 8344247204394103727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_24
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97f7e3fa13ffde1d0800000000000000
+      internalID: -3319716761443598471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_25
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766a0bf76c0a83280800000000000000
+      internalID: -9063317475676871065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_26
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52abcb005516d9780800000000000000
+      internalID: -8674670289533224411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_27
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6384ff8a49739ae70800000000000000
+      internalID: 9126887231473010742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_28
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c3427dbfb193bd0800000000000000
+      internalID: -2650056137270608871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_29
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 22
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24baf827dfeef61b0800000000000000
+      internalID: -5661043434265269438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_30
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 5
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c0f84fb42e88c30800000000000000
+      internalID: 4361985054961765472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_31
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 5
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2260ce7d87bd48b40800000000000000
+      internalID: 5441715561835529762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_32
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590d0d9c9bd1c45f0800000000000000
+      internalID: -771208752395136875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MegamantileHielo_33
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe043b48993c7fc0800000000000000
+      internalID: -3495855884486832390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

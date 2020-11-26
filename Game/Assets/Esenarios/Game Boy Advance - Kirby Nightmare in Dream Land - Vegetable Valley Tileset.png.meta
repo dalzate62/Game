@@ -1,0 +1,2434 @@
+fileFormatVersion: 2
+guid: af04686b973ec944a816d4990fcbd4c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4439244568143459314
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_0
+  - first:
+      213: -8643417634280640238
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_1
+  - first:
+      213: -282339214358653818
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_2
+  - first:
+      213: -7301051542540802176
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_3
+  - first:
+      213: 2478167957501179201
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_4
+  - first:
+      213: -123127451473560259
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_5
+  - first:
+      213: -7153971574008924804
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_6
+  - first:
+      213: 7430280887566110742
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_7
+  - first:
+      213: 7872955876771285242
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_8
+  - first:
+      213: 3009050099730000363
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_9
+  - first:
+      213: 1574635484975356314
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_10
+  - first:
+      213: 2215365687567668153
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_11
+  - first:
+      213: 4806716236433361934
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_12
+  - first:
+      213: -3516534405014742513
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_13
+  - first:
+      213: 3235681925840737960
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_14
+  - first:
+      213: -605563969786096296
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_15
+  - first:
+      213: 5044239336640713650
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_16
+  - first:
+      213: 135572340525887479
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_17
+  - first:
+      213: 7312477970067817660
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_18
+  - first:
+      213: 5186193175417197283
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_19
+  - first:
+      213: -7501922027962793102
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_20
+  - first:
+      213: 4122414009951592216
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_21
+  - first:
+      213: -7040012319167402371
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_22
+  - first:
+      213: 7937330323699945055
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_23
+  - first:
+      213: -1153303100637336971
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_24
+  - first:
+      213: 2747557930992871335
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_25
+  - first:
+      213: 294291979139830573
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_26
+  - first:
+      213: 8427683237770551589
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_27
+  - first:
+      213: -5903874058186705888
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_28
+  - first:
+      213: 2913960060910897399
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_29
+  - first:
+      213: -8391396437006048231
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_30
+  - first:
+      213: -5569746502258649121
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_31
+  - first:
+      213: -5065835441203627757
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_32
+  - first:
+      213: -7668604260732994548
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_33
+  - first:
+      213: 477157625652343741
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_34
+  - first:
+      213: -1896035400611126037
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_35
+  - first:
+      213: 6411655951745979504
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_36
+  - first:
+      213: -3278227912094917409
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_37
+  - first:
+      213: 4900584144078662586
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_38
+  - first:
+      213: -8088422060584348144
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_39
+  - first:
+      213: 5039162617064725318
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_40
+  - first:
+      213: 1809546242231025829
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_41
+  - first:
+      213: -6019753280056583077
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_42
+  - first:
+      213: -4451294695525579196
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_43
+  - first:
+      213: -8099871976006259926
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_44
+  - first:
+      213: -7742362390936976948
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_45
+  - first:
+      213: -4037335167345699475
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_46
+  - first:
+      213: 6443987011174247866
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_47
+  - first:
+      213: -2798177295380640128
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_48
+  - first:
+      213: -5772682714003353073
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_49
+  - first:
+      213: 7125146916004976162
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_50
+  - first:
+      213: -5130466297730020771
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_51
+  - first:
+      213: -3190664012473975597
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_52
+  - first:
+      213: -4322068839395599218
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_53
+  - first:
+      213: 8450771941846655605
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_54
+  - first:
+      213: -2704869237027187817
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_55
+  - first:
+      213: 1536086545616505077
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_56
+  - first:
+      213: 5304211159522527372
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_57
+  - first:
+      213: -1342431420783827913
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_58
+  - first:
+      213: -2607435384916833444
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_59
+  - first:
+      213: 2779992651160217991
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_60
+  - first:
+      213: 6799987734662967033
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_61
+  - first:
+      213: -534635020738783255
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_62
+  - first:
+      213: 3006715831896129002
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_63
+  - first:
+      213: -5018992856772173042
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_64
+  - first:
+      213: -2822586013263641462
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_65
+  - first:
+      213: -7933019014545730759
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_66
+  - first:
+      213: -5982914581265919314
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_67
+  - first:
+      213: -882357546845162443
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_68
+  - first:
+      213: 5386076149871928704
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_69
+  - first:
+      213: 1071375473668031492
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_70
+  - first:
+      213: -4535041302445385026
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_71
+  - first:
+      213: -1164585037332540942
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_72
+  - first:
+      213: -6893271837465279660
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_73
+  - first:
+      213: -6408420083165433110
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_74
+  - first:
+      213: 3382177412331607731
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_75
+  - first:
+      213: -5652886584052109685
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_76
+  - first:
+      213: -1805363263733651200
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_77
+  - first:
+      213: 6612776886803796876
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_78
+  - first:
+      213: 5478868921543627152
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_79
+  - first:
+      213: -2624889830555839501
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_80
+  - first:
+      213: 3113894276307077968
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_81
+  - first:
+      213: 1663780508722434265
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_82
+  - first:
+      213: -3062051798907353770
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_83
+  - first:
+      213: -7249825819584282924
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_84
+  - first:
+      213: -6814518664261459905
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_85
+  - first:
+      213: 3239028081788869741
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_86
+  - first:
+      213: -4428417051184136252
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_87
+  - first:
+      213: 7624742579071483900
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_88
+  - first:
+      213: 2181329118597905538
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_89
+  - first:
+      213: 998833302535570604
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_90
+  - first:
+      213: 354427800458663210
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_91
+  - first:
+      213: -8341056323558317963
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_92
+  - first:
+      213: -623718570864485488
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_93
+  - first:
+      213: -350534365599012711
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_94
+  - first:
+      213: -4519022425838290609
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_95
+  - first:
+      213: -7351840752898842536
+    second: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_96
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3f5432a6d5b9d30800000000000000
+      internalID: 4439244568143459314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_1
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211fa57d4796c0880800000000000000
+      internalID: -8643417634280640238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6845dfdfafde41cf0800000000000000
+      internalID: -282339214358653818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087a9000e447daa90800000000000000
+      internalID: -7301051542540802176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_4
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145fc90a0a8346220800000000000000
+      internalID: 2478167957501179201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3db1d83c309a4ef0800000000000000
+      internalID: -123127451473560259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_6
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75b4fdb1ccf7bc90800000000000000
+      internalID: -7153971574008924804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_7
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 119
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61090c49919ad1760800000000000000
+      internalID: 7430280887566110742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_8
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 119
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8c64f38ab524d60800000000000000
+      internalID: 7872955876771285242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_9
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 119
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9a2c18f1b42c920800000000000000
+      internalID: 3009050099730000363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_10
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 119
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a995eac71aa3ad510800000000000000
+      internalID: 1574635484975356314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 119
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b35f07fa5f8ebe10800000000000000
+      internalID: 2215365687567668153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 119
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c86b033f2e4b240800000000000000
+      internalID: 4806716236433361934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_13
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 119
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a18ac0792c23fc0800000000000000
+      internalID: -3516534405014742513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a693e3719377ec20800000000000000
+      internalID: 3235681925840737960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_15
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855df1427ca9897f0800000000000000
+      internalID: -605563969786096296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3958e73fcb00640800000000000000
+      internalID: 5044239336640713650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_17
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ffe96e4356a1e100800000000000000
+      internalID: 135572340525887479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_18
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb403c978f32b7560800000000000000
+      internalID: 7312477970067817660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_19
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e21c45273f09f740800000000000000
+      internalID: 5186193175417197283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_20
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 273899699a1d3e790800000000000000
+      internalID: -7501922027962793102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_21
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f124853b1c53930800000000000000
+      internalID: 4122414009951592216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_22
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e27a5681adc4e90800000000000000
+      internalID: -7040012319167402371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_23
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 102
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e421920ef072e60800000000000000
+      internalID: 7937330323699945055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_24
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57aa720c0f4aeffe0800000000000000
+      internalID: -1153303100637336971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_25
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a723ac8169412620800000000000000
+      internalID: 2747557930992871335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_26
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2350eceef8851400800000000000000
+      internalID: 294291979139830573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_27
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 102
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521e3d2c04525f470800000000000000
+      internalID: 8427683237770551589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024332bf2d9311ea0800000000000000
+      internalID: -5903874058186705888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_29
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f805409c37707820800000000000000
+      internalID: 2913960060910897399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_30
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914a6ca6665cb8b80800000000000000
+      internalID: -8391396437006048231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_31
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd716e3e01944b2b0800000000000000
+      internalID: -5569746502258649121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_32
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3193974918982b9b0800000000000000
+      internalID: -5065835441203627757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_33
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c76fb0e05a39590800000000000000
+      internalID: -7668604260732994548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_34
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db370ea15543f9600800000000000000
+      internalID: 477157625652343741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_35
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be4220949ddefa5e0800000000000000
+      internalID: -1896035400611126037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_36
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07496d12e17caf850800000000000000
+      internalID: 6411655951745979504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_37
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcdfce25156182d0800000000000000
+      internalID: -3278227912094917409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_38
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb68bb805f520440800000000000000
+      internalID: 4900584144078662586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_39
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016df6d7df620cf80800000000000000
+      internalID: -8088422060584348144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_40
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64b129b93b3bee540800000000000000
+      internalID: 5039162617064725318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_41
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 85
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0c2dc48bccc1910800000000000000
+      internalID: 1809546242231025829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c1cba294a857ca0800000000000000
+      internalID: -6019753280056583077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4460e92fe03d932c0800000000000000
+      internalID: -4451294695525579196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2b61005a59779f80800000000000000
+      internalID: -8099871976006259926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_45
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc18bdd1d6a9d8490800000000000000
+      internalID: -7742362390936976948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_46
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 51
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65da275e0188f7c0800000000000000
+      internalID: -4037335167345699475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_47
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abda5428b04ad6950800000000000000
+      internalID: 6443987011174247866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_48
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08e06424390ea29d0800000000000000
+      internalID: -2798177295380640128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_49
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 52
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02dac618af43efa0800000000000000
+      internalID: -5772682714003353073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_50
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22652f49e5b91e260800000000000000
+      internalID: 7125146916004976162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_51
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a40b7a51cecc8b0800000000000000
+      internalID: -5130466297730020771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_52
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcbdda4cfb78b3d0800000000000000
+      internalID: -3190664012473975597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_53
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c5a053a4de404c0800000000000000
+      internalID: -4322068839395599218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_54
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572ab979e4c274570800000000000000
+      internalID: 8450771941846655605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_55
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793dc1b82cf567ad0800000000000000
+      internalID: -2704869237027187817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_56
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f88abf1396415510800000000000000
+      internalID: 1536086545616505077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_57
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88c00952f75c9940800000000000000
+      internalID: 5304211159522527372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_58
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7346bdc3cb9be5de0800000000000000
+      internalID: -1342431420783827913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_59
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b8f3b055780dbd0800000000000000
+      internalID: -2607435384916833444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_60
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 68
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 789e9925694849620800000000000000
+      internalID: 2779992651160217991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_61
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 68
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe699911d86e5e50800000000000000
+      internalID: 6799987734662967033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_62
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 51
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7916008489498f0800000000000000
+      internalID: -534635020738783255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_63
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 65
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed36bc6e100ab920800000000000000
+      internalID: 3006715831896129002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_64
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 65
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e032fd9a694f85ab0800000000000000
+      internalID: -5018992856772173042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_65
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 63
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a844f63c9f824d8d0800000000000000
+      internalID: -2822586013263641462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_66
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 52
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9331599bc3148e190800000000000000
+      internalID: -7933019014545730759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2d32e13ea68fca0800000000000000
+      internalID: -5982914581265919314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_68
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 35
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534b86f6c7c31c3f0800000000000000
+      internalID: -882357546845162443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_69
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 35
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085e15eb8bf2fba40800000000000000
+      internalID: 5386076149871928704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_70
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 43
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4048c01215a4ede00800000000000000
+      internalID: 1071375473668031492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_71
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 35
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba940e86fb4011c0800000000000000
+      internalID: -4535041302445385026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_72
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f11f0b241096dfe0800000000000000
+      internalID: -1164585037332540942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_73
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4538da339cd2650a0800000000000000
+      internalID: -6893271837465279660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_74
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2f17b33e7b017a0800000000000000
+      internalID: -6408420083165433110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_75
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b6106ddf68efee20800000000000000
+      internalID: 3382177412331607731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_76
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ea0022a99ec81b0800000000000000
+      internalID: -5652886584052109685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_77
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 34
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009ad964daf02f6e0800000000000000
+      internalID: -1805363263733651200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c839ad4ea8d45cb50800000000000000
+      internalID: 6612776886803796876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_79
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091198f714ad80c40800000000000000
+      internalID: 5478868921543627152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_80
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f31f2b3b94829bd0800000000000000
+      internalID: -2624889830555839501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_81
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bc76f9856c63b20800000000000000
+      internalID: 3113894276307077968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_82
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d09e9ebe8fe61710800000000000000
+      internalID: 1663780508722434265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_83
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6550842cc186185d0800000000000000
+      internalID: -3062051798907353770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_84
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de393c04d1736b90800000000000000
+      internalID: -7249825819584282924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_85
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f302d653167fd61a0800000000000000
+      internalID: -6814518664261459905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_86
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c5a8811e653fc20800000000000000
+      internalID: 3239028081788869741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_87
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 17
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cff2ea972a1b82c0800000000000000
+      internalID: -4428417051184136252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfff9516af680d960800000000000000
+      internalID: 7624742579071483900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_89
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c7e34b643a54e10800000000000000
+      internalID: 2181329118597905538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_90
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4867bb8919cdd00800000000000000
+      internalID: 998833302535570604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_91
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a259cd8e43e2be400800000000000000
+      internalID: 354427800458663210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_92
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570e7ce677d9e3c80800000000000000
+      internalID: -8341056323558317963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_93
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bdecfa34b1857f0800000000000000
+      internalID: -623718570864485488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_94
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99867e80ad6a22bf0800000000000000
+      internalID: -350534365599012711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_95
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4972e7eb053941c0800000000000000
+      internalID: -4519022425838290609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Game Boy Advance - Kirby Nightmare in Dream Land - Vegetable Valley Tileset_96
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850693679c309f990800000000000000
+      internalID: -7351840752898842536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

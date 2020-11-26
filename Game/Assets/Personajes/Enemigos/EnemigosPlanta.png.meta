@@ -1,0 +1,2674 @@
+fileFormatVersion: 2
+guid: 2ccaf76070ce2da479b5b039d294b449
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5693114662919863427
+    second: EnemigosPlanta_0
+  - first:
+      213: 7284081056842621889
+    second: EnemigosPlanta_1
+  - first:
+      213: -3239622389398861597
+    second: EnemigosPlanta_2
+  - first:
+      213: -8281104052810327803
+    second: EnemigosPlanta_3
+  - first:
+      213: 3764475663257116672
+    second: EnemigosPlanta_4
+  - first:
+      213: -8117203215438931139
+    second: EnemigosPlanta_5
+  - first:
+      213: -7106053560177916992
+    second: EnemigosPlanta_6
+  - first:
+      213: 9155729387749408547
+    second: EnemigosPlanta_7
+  - first:
+      213: 7213238448907943485
+    second: EnemigosPlanta_8
+  - first:
+      213: 4990455765627017841
+    second: EnemigosPlanta_9
+  - first:
+      213: -9064710697850915099
+    second: EnemigosPlanta_10
+  - first:
+      213: 7547708856997390398
+    second: EnemigosPlanta_11
+  - first:
+      213: -7266131800013874710
+    second: EnemigosPlanta_12
+  - first:
+      213: -722717156200044707
+    second: EnemigosPlanta_13
+  - first:
+      213: -8831811606807899797
+    second: EnemigosPlanta_14
+  - first:
+      213: -8002665654415251728
+    second: EnemigosPlanta_15
+  - first:
+      213: -2106436807823263782
+    second: EnemigosPlanta_16
+  - first:
+      213: -4949619245694065099
+    second: EnemigosPlanta_17
+  - first:
+      213: 3742406217401563781
+    second: EnemigosPlanta_18
+  - first:
+      213: -578294124424846118
+    second: EnemigosPlanta_19
+  - first:
+      213: 3141900053174881112
+    second: EnemigosPlanta_20
+  - first:
+      213: -2578764725726230856
+    second: EnemigosPlanta_21
+  - first:
+      213: 7855141522641851390
+    second: EnemigosPlanta_22
+  - first:
+      213: 571585099656991541
+    second: EnemigosPlanta_23
+  - first:
+      213: 8351959310062298440
+    second: EnemigosPlanta_24
+  - first:
+      213: -6790032206042868034
+    second: EnemigosPlanta_25
+  - first:
+      213: -6139041723203460558
+    second: EnemigosPlanta_26
+  - first:
+      213: -525008508190398631
+    second: EnemigosPlanta_27
+  - first:
+      213: -6424806441877467235
+    second: EnemigosPlanta_28
+  - first:
+      213: 7032487605261415525
+    second: EnemigosPlanta_29
+  - first:
+      213: 4056999659071720518
+    second: EnemigosPlanta_30
+  - first:
+      213: 5131791643819080071
+    second: EnemigosPlanta_31
+  - first:
+      213: 5729715161048531395
+    second: EnemigosPlanta_32
+  - first:
+      213: 7363056613078202209
+    second: EnemigosPlanta_33
+  - first:
+      213: 964295022687925867
+    second: EnemigosPlanta_34
+  - first:
+      213: 718387249307216080
+    second: EnemigosPlanta_35
+  - first:
+      213: 4792085254456540878
+    second: EnemigosPlanta_36
+  - first:
+      213: -1333692522285109650
+    second: EnemigosPlanta_37
+  - first:
+      213: -3780042862235851569
+    second: EnemigosPlanta_38
+  - first:
+      213: 8336720903704899258
+    second: EnemigosPlanta_39
+  - first:
+      213: -6017446972637078052
+    second: EnemigosPlanta_40
+  - first:
+      213: 3429390185149212219
+    second: EnemigosPlanta_41
+  - first:
+      213: -2022173046149719898
+    second: EnemigosPlanta_42
+  - first:
+      213: -5135599292158085940
+    second: EnemigosPlanta_43
+  - first:
+      213: -7094481772558722158
+    second: EnemigosPlanta_44
+  - first:
+      213: 2461810155714265812
+    second: EnemigosPlanta_45
+  - first:
+      213: -1499577024695613676
+    second: EnemigosPlanta_46
+  - first:
+      213: -2866255912915252322
+    second: EnemigosPlanta_47
+  - first:
+      213: -1994968568002403095
+    second: EnemigosPlanta_48
+  - first:
+      213: -3157976495865032245
+    second: EnemigosPlanta_49
+  - first:
+      213: 2563518173726383392
+    second: EnemigosPlanta_50
+  - first:
+      213: -8055796745614630896
+    second: EnemigosPlanta_51
+  - first:
+      213: 1965203797429689265
+    second: EnemigosPlanta_52
+  - first:
+      213: 5411339673888792410
+    second: EnemigosPlanta_53
+  - first:
+      213: 3257617310207067421
+    second: EnemigosPlanta_54
+  - first:
+      213: -2648698302438063129
+    second: EnemigosPlanta_55
+  - first:
+      213: 2244361579676869566
+    second: EnemigosPlanta_56
+  - first:
+      213: 892114449936041928
+    second: EnemigosPlanta_57
+  - first:
+      213: 3972689643824100512
+    second: EnemigosPlanta_58
+  - first:
+      213: 8884062677199022117
+    second: EnemigosPlanta_59
+  - first:
+      213: 8261364648460048999
+    second: EnemigosPlanta_60
+  - first:
+      213: 4705912755215563960
+    second: EnemigosPlanta_61
+  - first:
+      213: 4094656317077026081
+    second: EnemigosPlanta_62
+  - first:
+      213: 5838485704175044978
+    second: EnemigosPlanta_63
+  - first:
+      213: -3548619598676261489
+    second: EnemigosPlanta_64
+  - first:
+      213: 7968171515476386639
+    second: EnemigosPlanta_65
+  - first:
+      213: 4319320553465399749
+    second: EnemigosPlanta_66
+  - first:
+      213: 6337584527413798388
+    second: EnemigosPlanta_67
+  - first:
+      213: -5192938018585198094
+    second: EnemigosPlanta_68
+  - first:
+      213: -1184122129451256773
+    second: EnemigosPlanta_69
+  - first:
+      213: -4627899344570630776
+    second: EnemigosPlanta_70
+  - first:
+      213: -2244891531422287768
+    second: EnemigosPlanta_71
+  - first:
+      213: -779965113382940221
+    second: EnemigosPlanta_72
+  - first:
+      213: -1666881845556898770
+    second: EnemigosPlanta_73
+  - first:
+      213: -7254155300398603624
+    second: EnemigosPlanta_74
+  - first:
+      213: -8889285947631749192
+    second: EnemigosPlanta_75
+  - first:
+      213: -8706889537978901190
+    second: EnemigosPlanta_76
+  - first:
+      213: 8565597660681611002
+    second: EnemigosPlanta_77
+  - first:
+      213: -3750793513833202225
+    second: EnemigosPlanta_78
+  - first:
+      213: -2626831996308646216
+    second: EnemigosPlanta_79
+  - first:
+      213: -3403694619919280078
+    second: EnemigosPlanta_80
+  - first:
+      213: -6177831199189921686
+    second: EnemigosPlanta_81
+  - first:
+      213: -6040567986411065784
+    second: EnemigosPlanta_82
+  - first:
+      213: -5735016353809119169
+    second: EnemigosPlanta_83
+  - first:
+      213: 7714658505081244519
+    second: EnemigosPlanta_84
+  - first:
+      213: 9046889282578538774
+    second: EnemigosPlanta_85
+  - first:
+      213: -6252805488856573736
+    second: EnemigosPlanta_86
+  - first:
+      213: 5450622429208131524
+    second: EnemigosPlanta_87
+  - first:
+      213: -8236887455266044729
+    second: EnemigosPlanta_88
+  - first:
+      213: -3462476209824617458
+    second: EnemigosPlanta_89
+  - first:
+      213: -3468063513307967017
+    second: EnemigosPlanta_90
+  - first:
+      213: -2285552761178954165
+    second: EnemigosPlanta_91
+  - first:
+      213: 6280336713924941060
+    second: EnemigosPlanta_92
+  - first:
+      213: 7541082185714832237
+    second: EnemigosPlanta_93
+  - first:
+      213: -6735352784117382053
+    second: EnemigosPlanta_94
+  - first:
+      213: -4616802085054483256
+    second: EnemigosPlanta_95
+  - first:
+      213: 4714044771830528753
+    second: EnemigosPlanta_96
+  - first:
+      213: 5743734510211412509
+    second: EnemigosPlanta_97
+  - first:
+      213: -1561848958580742590
+    second: EnemigosPlanta_98
+  - first:
+      213: 5290786533400435177
+    second: EnemigosPlanta_99
+  - first:
+      213: -5928537342162787633
+    second: EnemigosPlanta_100
+  - first:
+      213: -5474070233679964911
+    second: EnemigosPlanta_101
+  - first:
+      213: -4871373394550005304
+    second: EnemigosPlanta_102
+  - first:
+      213: -4004984862491923861
+    second: EnemigosPlanta_103
+  - first:
+      213: 5305103384560284352
+    second: EnemigosPlanta_104
+  - first:
+      213: 4750959962600570406
+    second: EnemigosPlanta_105
+  - first:
+      213: -7119564029132598533
+    second: EnemigosPlanta_106
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnemigosPlanta_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 278
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38cf7ec5f91020f40800000000000000
+      internalID: 5693114662919863427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_1
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 278
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3a144e021461560800000000000000
+      internalID: 7284081056842621889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_2
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 278
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e88a71e99c8a03d0800000000000000
+      internalID: -3239622389398861597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_3
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 278
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50951383dbb931d80800000000000000
+      internalID: -8281104052810327803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 278
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0002b02bbaa1e3430800000000000000
+      internalID: 3764475663257116672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_5
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 278
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3b9a1eaea6e95f80800000000000000
+      internalID: -8117203215438931139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_6
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 278
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c302bebfe9326d90800000000000000
+      internalID: -7106053560177916992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_7
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 278
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f78687e5faf0f70800000000000000
+      internalID: 9155729387749408547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 278
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3ef853e6229a1460800000000000000
+      internalID: 7213238448907943485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_9
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 278
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a9f790419a14540800000000000000
+      internalID: 4990455765627017841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_10
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 271
+        width: 64
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6b9eea5ada33280800000000000000
+      internalID: -9064710697850915099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_11
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 277
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3826694739deb860800000000000000
+      internalID: 7547708856997390398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_12
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 277
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9d00120a3892b90800000000000000
+      internalID: -7266131800013874710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_13
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 263
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57ad97539468f5f0800000000000000
+      internalID: -722717156200044707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 263
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b611b05f22a1f6580800000000000000
+      internalID: -8831811606807899797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_15
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 263
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f62c5cbcf1d0f090800000000000000
+      internalID: -8002665654415251728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_16
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 263
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7f2e732ee64c2e0800000000000000
+      internalID: -2106436807823263782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_17
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 263
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 536e7fe258b6f4bb0800000000000000
+      internalID: -4949619245694065099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_18
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 264
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58afe6960a2bfe330800000000000000
+      internalID: 3742406217401563781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_19
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 251
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad426f9ce8c79f7f0800000000000000
+      internalID: -578294124424846118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_20
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 251
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b054da3754a9b20800000000000000
+      internalID: 3141900053174881112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_21
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 251
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6c7c31523663cd0800000000000000
+      internalID: -2578764725726230856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_22
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 257
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef31d75b891130d60800000000000000
+      internalID: 7855141522641851390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_23
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 257
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53316f7ae9daee700800000000000000
+      internalID: 571585099656991541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_24
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 250
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845a7ceedbe18e370800000000000000
+      internalID: 8351959310062298440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_25
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 250
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb65a590fa5f4c1a0800000000000000
+      internalID: -6790032206042868034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_26
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 251
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232e72b241ebdcaa0800000000000000
+      internalID: -6139041723203460558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_27
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 242
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 957e04d1b8bc6b8f0800000000000000
+      internalID: -525008508190398631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_28
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 242
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f8049c49086d6a0800000000000000
+      internalID: -6424806441877467235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_29
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 240
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 564b1fe973a689160800000000000000
+      internalID: 7032487605261415525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 235
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64cc9dce1bb5d4830800000000000000
+      internalID: 4056999659071720518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_31
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 236
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78977278f49c73740800000000000000
+      internalID: 5131791643819080071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_32
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 235
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1c776e499048f40800000000000000
+      internalID: 5729715161048531395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_33
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 235
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167fd9b7af4de2660800000000000000
+      internalID: 7363056613078202209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_34
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 233
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66bdfdc63dd16d00800000000000000
+      internalID: 964295022687925867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 216
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d86026a56938f900800000000000000
+      internalID: 718387249307216080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 216
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecef44d3628e08240800000000000000
+      internalID: 4792085254456540878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_37
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 216
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ee99997b5cd7de0800000000000000
+      internalID: -1333692522285109650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_38
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 216
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc46ea85b079a8bc0800000000000000
+      internalID: -3780042862235851569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_39
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 216
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe67e8fd7bf1b370800000000000000
+      internalID: 8336720903704899258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_40
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 216
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd97353cdbbd7ca0800000000000000
+      internalID: -6017446972637078052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_41
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 216
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b36a7062434a79f20800000000000000
+      internalID: 3429390185149212219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_42
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 216
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a850e5145ccfe3e0800000000000000
+      internalID: -2022173046149719898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_43
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 216
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc47b2247afaab8b0800000000000000
+      internalID: -5135599292158085940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_44
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 216
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b57218a665b8d90800000000000000
+      internalID: -7094481772558722158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_45
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 216
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d24ccb1b4b1a2220800000000000000
+      internalID: 2461810155714265812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_46
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 216
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4174ea124ae603be0800000000000000
+      internalID: -1499577024695613676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_47
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 214
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9bc25bee630938d0800000000000000
+      internalID: -2866255912915252322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_48
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 216
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e4a52e38a27054e0800000000000000
+      internalID: -1994968568002403095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_49
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 216
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc19ee2db1d9c24d0800000000000000
+      internalID: -3157976495865032245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_50
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 216
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d18386232739320800000000000000
+      internalID: 2563518173726383392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_51
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 216
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01064e29a8f043090800000000000000
+      internalID: -8055796745614630896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_52
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 216
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb9b01117ec54b10800000000000000
+      internalID: 1965203797429689265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_53
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 192
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f9e1d43c0f81b40800000000000000
+      internalID: 5411339673888792410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_54
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 192
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d154e0d1fa1653d20800000000000000
+      internalID: 3257617310207067421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_55
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 197
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e3cff56deeed3bd0800000000000000
+      internalID: -2648698302438063129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_56
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 172
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3ac2037f2952f10800000000000000
+      internalID: 2244361579676869566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_57
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 171
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c74e679d5d616c00800000000000000
+      internalID: 892114449936041928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_58
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 180
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a4320fce24d12730800000000000000
+      internalID: 3972689643824100512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_59
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 180
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528e0c46fe78a4b70800000000000000
+      internalID: 8884062677199022117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_60
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 180
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a5e6f806346a270800000000000000
+      internalID: 8261364648460048999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_61
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 180
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc7a96c7b2ce4140800000000000000
+      internalID: 4705912755215563960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_62
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 115
+        width: 65
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1257fa8d93423d830800000000000000
+      internalID: 4094656317077026081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_63
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 169
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279cc8770d7760150800000000000000
+      internalID: 5838485704175044978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_64
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 169
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8589e1c645c0cec0800000000000000
+      internalID: -3548619598676261489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_65
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 174
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f432b51b6c1a49e60800000000000000
+      internalID: 7968171515476386639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_66
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 155
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c9495c982f41fb30800000000000000
+      internalID: 4319320553465399749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_67
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 155
+        width: 16
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5e28abc8f93f750800000000000000
+      internalID: 6337584527413798388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_68
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 156
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1cb9da26afee7b0800000000000000
+      internalID: -5192938018585198094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_69
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 134
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34f06f6237219fe0800000000000000
+      internalID: -1184122129451256773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_70
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 134
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dba96d01666cfb0800000000000000
+      internalID: -4627899344570630776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_71
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 153
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 868ba4ecb0b88d0e0800000000000000
+      internalID: -2244891531422287768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_72
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 153
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1dc9f9cd10d25f0800000000000000
+      internalID: -779965113382940221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_73
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 153
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2498010bcb0ed8e0800000000000000
+      internalID: -1666881845556898770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_74
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 153
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 892693e3030145b90800000000000000
+      internalID: -7254155300398603624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_75
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 129
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7b9803789e2a480800000000000000
+      internalID: -8889285947631749192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_76
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 134
+        width: 49
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3dd336a81aea2780800000000000000
+      internalID: -8706889537978901190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_77
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 109
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af628dd90bd1fd670800000000000000
+      internalID: 8565597660681611002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_78
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 109
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdf126fb2182fbc0800000000000000
+      internalID: -3750793513833202225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_79
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 109
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b69467873e9b8bd0800000000000000
+      internalID: -2626831996308646216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_80
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 107
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2389dc7d6c5a3c0d0800000000000000
+      internalID: -3403694619919280078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_81
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 22
+        width: 19
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6095f1814fe34aa0800000000000000
+      internalID: -6177831199189921686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_82
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 22
+        width: 18
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84e2f50bb679b2ca0800000000000000
+      internalID: -6040567986411065784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_83
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 22
+        width: 18
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38c62af2012960b0800000000000000
+      internalID: -5735016353809119169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_84
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 22
+        width: 18
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b40de4909ff0b60800000000000000
+      internalID: 7714658505081244519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_85
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 22
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611e16abed10d8d70800000000000000
+      internalID: 9046889282578538774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_86
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 22
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8571369829939a0800000000000000
+      internalID: -6252805488856573736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_87
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 22
+        width: 18
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c73ab1883084ab40800000000000000
+      internalID: 5450622429208131524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_88
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 22
+        width: 17
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c40ff51082b0bd80800000000000000
+      internalID: -8236887455266044729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_89
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 22
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ca92e6b30d2ffc0800000000000000
+      internalID: -3462476209824617458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_90
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 22
+        width: 17
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d119c6fb96fedfc0800000000000000
+      internalID: -3468063513307967017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_91
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46e3828fd51840e0800000000000000
+      internalID: -2285552761178954165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_92
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 8
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405175777fc382750800000000000000
+      internalID: 6280336713924941060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_93
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 6
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d631f852b4e47a860800000000000000
+      internalID: 7541082185714832237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_94
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54ceb904583782a0800000000000000
+      internalID: -6735352784117382053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_95
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 8
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c47b0ae6f2ddefb0800000000000000
+      internalID: -4616802085054483256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_96
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 6
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fafe307eb6ab6140800000000000000
+      internalID: 4714044771830528753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_97
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12bd4dfa18d5bf40800000000000000
+      internalID: 5743734510211412509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_98
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 8
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2462bfea5a2335ae0800000000000000
+      internalID: -1561848958580742590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_99
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 6
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9d0c10256ac6940800000000000000
+      internalID: 5290786533400435177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_100
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2afb2b2ba99bda0800000000000000
+      internalID: -5928537342162787633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_101
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 8
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11557f510223804b0800000000000000
+      internalID: -5474070233679964911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_102
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 6
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c1ee8115b7656cb0800000000000000
+      internalID: -4871373394550005304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_103
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 22
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a2a54ac7f6b68c0800000000000000
+      internalID: -4004984862491923861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_104
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 22
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2307dab638f9940800000000000000
+      internalID: 5305103384560284352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_105
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 22
+        width: 17
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ef8e01aeccee140800000000000000
+      internalID: 4750959962600570406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnemigosPlanta_106
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 22
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf217ef8c3a323d90800000000000000
+      internalID: -7119564029132598533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
