@@ -4,13 +4,10 @@ using UnityEngine;
 
 public class BullerMinero : MonoBehaviour
 {
-    public float velocity;
 
     private Rigidbody2D _rb;
 
     private DamageType _damageType;
-
-    private Vector2 _direccion;
 
     public enum DamageType
     {
@@ -26,8 +23,9 @@ public class BullerMinero : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        _rb.velocity = _direccion*velocity;
-        Destroy(gameObject, 2f);
+        
+        _rb.AddForce(Vector2.left * 1, ForceMode2D.Impulse);
+        Destroy(gameObject, 1f);
     }
 
     private void OnCollisionEnter2D(Collision2D other)
@@ -45,12 +43,5 @@ public class BullerMinero : MonoBehaviour
 
                 break;
         }
-    }
-    public void EnviarDireccion(Vector3 v3)
-    {
-        if (v3.x > 0.5f)
-            _direccion = Vector2.left;
-        else
-            _direccion = Vector2.right;
     }
 }

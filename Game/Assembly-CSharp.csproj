@@ -70,10 +70,16 @@
     <Compile Include="Assets\Scripts\TurtleGreen\TurnaroundTurtle.cs" />
     <Compile Include="Assets\Scripts\Minero\MineroShoot.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerShoot.cs" />
+    <Compile Include="Assets\Scripts\Minero\BullerMinero.cs" />
     <Compile Include="Assets\Scripts\Gooba\DestroyPlayer.cs" />
     <Compile Include="Assets\Scripts\MainMenu\PlayerMenu.cs" />
     <Compile Include="Assets\Scripts\Gooba\GoobaMovement.cs" />
-    <Compile Include="Assets\Scripts\Minero\BullerMinero.cs" />
+    <Compile Include="Assets\Scripts\Heli\HeliGeneration.cs" />
+    <Compile Include="Assets\Scripts\Heli\FireShoot.cs" />
+    <Compile Include="Assets\Scripts\Heli\TurtleShoot.cs" />
+    <Compile Include="Assets\Scripts\Heli\FirevsTurtle.cs" />
+    <Compile Include="Assets\Scripts\Heli\TurnAround.cs" />
+    <Compile Include="Assets\Scripts\Heli\Transformacion.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

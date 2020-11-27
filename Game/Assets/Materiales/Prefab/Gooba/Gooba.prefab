@@ -122,7 +122,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxSpeed: 2
   horizontalForce: 10
-  dieclip: {fileID: 8300000, guid: b888be2eb56692148aa76783af667641, type: 3}
 --- !u!95 &5916969428803086927
 Animator:
   serializedVersion: 3
@@ -389,6 +388,7 @@ GameObject:
   m_Component:
   - component: {fileID: 5916969429968422755}
   - component: {fileID: 5916969429968422756}
+  - component: {fileID: 6635486882895347710}
   m_Layer: 0
   m_Name: DetectWall
   m_TagString: Untagged
@@ -426,12 +426,24 @@ EdgeCollider2D:
   m_Offset: {x: 0, y: 0}
   m_EdgeRadius: 0
   m_Points:
-  - {x: -0.51423264, y: 0.3521657}
+  - {x: -0.536005, y: 0.3521657}
   - {x: -0.40957403, y: 0.3521657}
   m_AdjacentStartPoint: {x: 0, y: 0}
   m_AdjacentEndPoint: {x: 0, y: 0}
   m_UseAdjacentStartPoint: 0
   m_UseAdjacentEndPoint: 0
+--- !u!114 &6635486882895347710
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5916969429968422754}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57caeb6931c79f04795543a46ac3dbb9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &5916969430249000082
 GameObject:
   m_ObjectHideFlags: 0

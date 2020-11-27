@@ -6,6 +6,7 @@ public class MineroShoot : MonoBehaviour
 {
     public Transform bulletPoint;
     public GameObject bullet;
+    float _timeSpawn;
 
     // Start is called before the first frame update
     void Start()
@@ -16,6 +17,10 @@ public class MineroShoot : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Instantiate(bullet, bulletPoint.position, Quaternion.identity);
+        _timeSpawn += Time.deltaTime;
+        if (_timeSpawn > 2) {
+            Instantiate(bullet, bulletPoint.position, Quaternion.identity);
+            _timeSpawn = 0;
+        }
     }
 }
