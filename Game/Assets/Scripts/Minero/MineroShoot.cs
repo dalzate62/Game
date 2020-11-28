@@ -18,7 +18,7 @@ public class MineroShoot : MonoBehaviour
     void Update()
     {
         _timeSpawn += Time.deltaTime;
-        if (_timeSpawn > 2) {
+        if (_timeSpawn > 0.9) {
             Instantiate(bullet, bulletPoint.position, Quaternion.identity);
             _timeSpawn = 0;
         }

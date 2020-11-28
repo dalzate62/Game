@@ -76,6 +76,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1428955054127042576}
   - component: {fileID: 1428955054127042577}
+  - component: {fileID: 5505225621503472218}
   m_Layer: 0
   m_Name: Body
   m_TagString: Untagged
@@ -113,6 +114,22 @@ CircleCollider2D:
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
   m_Radius: 0.3
+--- !u!70 &5505225621503472218
+CapsuleCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1428955054127042583}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: -0.39}
+  m_Size: {x: 1.06, y: 0.17}
+  m_Direction: 1
 --- !u!1 &1428955054371193957
 GameObject:
   m_ObjectHideFlags: 0
@@ -161,8 +178,8 @@ EdgeCollider2D:
   m_Offset: {x: 0, y: 0}
   m_EdgeRadius: 0
   m_Points:
-  - {x: -0.61846924, y: -0.8222997}
-  - {x: -0.614975, y: -0.44599295}
+  - {x: -0.5222626, y: -0.7635081}
+  - {x: -0.5187683, y: -0.51547384}
   m_AdjacentStartPoint: {x: 0, y: 0}
   m_AdjacentEndPoint: {x: 0, y: 0}
   m_UseAdjacentStartPoint: 0
@@ -398,8 +415,8 @@ EdgeCollider2D:
   m_Offset: {x: 0, y: 0}
   m_EdgeRadius: 0
   m_Points:
-  - {x: -0.61846924, y: -0.8222997}
-  - {x: -0.614975, y: -0.44599295}
+  - {x: -0.48486328, y: -0.77419734}
+  - {x: -0.4867096, y: -0.50478435}
   m_AdjacentStartPoint: {x: 0, y: 0}
   m_AdjacentEndPoint: {x: 0, y: 0}
   m_UseAdjacentStartPoint: 0
@@ -855,8 +872,9 @@ EdgeCollider2D:
   m_Offset: {x: 0, y: 0}
   m_EdgeRadius: 0
   m_Points:
-  - {x: -0.4893036, y: -0.13896132}
-  - {x: -0.64375305, y: -0.13896155}
+  - {x: -0.29023743, y: 0.12645507}
+  - {x: -0.36250305, y: 0.12645507}
+  - {x: -0.63864136, y: 0.12645507}
   m_AdjacentStartPoint: {x: 0, y: 0}
   m_AdjacentEndPoint: {x: 0, y: 0}
   m_UseAdjacentStartPoint: 0

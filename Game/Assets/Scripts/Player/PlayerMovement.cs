@@ -9,8 +9,6 @@ public class PlayerMovement : MonoBehaviour
     private Vector2 ForceVector;
     public Animator anim;
     public AudioClip jumpclip;
-    public AudioClip dieclip;
-    public AudioClip damageclip;
 
     public float forceMultiplier, jumpMultiplayer;
     private Rigidbody2D rb;
@@ -97,22 +95,7 @@ public class PlayerMovement : MonoBehaviour
         {
             audioPlayer.clip = jumpclip;
             audioPlayer.Play();
-        }
-
-       if(collision.gameObject.CompareTag("Enemy"))
-        {
-            anim.SetTrigger("Damage");
-            audioPlayer.clip = damageclip;
-            audioPlayer.Play();
-        }        
-        
-        /* if (collision.gameObject.CompareTag("Enemy"))
-        {
-            game.GetComponent<AudioSource>().Stop();
-            audioPlayer.clip = dieclip;
-            audioPlayer.Play();
-        }*/
-
+        }    
     }
 
 

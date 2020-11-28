@@ -32,12 +32,10 @@ public class Transformacion : MonoBehaviour
             case TurtlePstation._TurtleA:
                 transform.GetChild(0).gameObject.SetActive(true);
                 transform.GetChild(1).gameObject.SetActive(false);
-                transform.GetChild(2).gameObject.SetActive(false);
                 break;
             case TurtlePstation._TurtleP:
                 transform.GetChild(0).gameObject.SetActive(false);
                 transform.GetChild(1).gameObject.SetActive(true);
-                transform.GetChild(2).gameObject.SetActive(false);
                 break;
         }
     }

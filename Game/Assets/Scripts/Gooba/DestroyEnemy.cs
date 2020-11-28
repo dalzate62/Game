@@ -6,7 +6,7 @@ public class DestroyEnemy : MonoBehaviour
 {
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("Player"))
+        if (collision.gameObject.CompareTag("Shoot"))
         transform.root.gameObject.SetActive(false);
     }
 

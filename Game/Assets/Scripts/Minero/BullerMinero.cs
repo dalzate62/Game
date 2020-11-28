@@ -37,7 +37,6 @@ public class BullerMinero : MonoBehaviour
             case DamageType.ToPlayer:
                 if (obj.CompareTag("Player"))
                 {
-                    Destroy(obj);
                     Destroy(gameObject);
                 }
 

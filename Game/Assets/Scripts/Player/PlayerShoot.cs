@@ -9,7 +9,7 @@ public class PlayerShoot : MonoBehaviour
     public GameObject bullet;
     public TMPro.TextMeshProUGUI textoContadorBalas;
     float currentTime = 0;
-    public int cantidadbalas = 5;
+    public int cantidadbalas;
 
     //[SerializeField] private float _timeToSpawn = 5f;
     private float _timeSinceSpawn;
@@ -25,8 +25,6 @@ public class PlayerShoot : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       
-        
         if (Input.GetKeyDown(KeyCode.X))
         {  if (cantidadbalas > 0)
             {
@@ -61,19 +59,5 @@ public class PlayerShoot : MonoBehaviour
             _timeSinceSpawn = 0;
         }
 
-    }
-
-    public void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.gameObject.CompareTag("Enemy"))
-        {
-            if (cantidadbalas == 0)
-            {
-                transform.root.gameObject.SetActive(false);
-            }
-            cantidadbalas = 0;
-            textoContadorBalas.text = cantidadbalas.ToString();
-        }
-        
     }
 }

@@ -28,7 +28,7 @@ public class FireShoot : MonoBehaviour
     {
 
         _rb.AddForce(Vector2.down * 1, ForceMode2D.Impulse);
-        Destroy(gameObject, 2f);
+        Destroy(gameObject, 1f);
     }
 
 
