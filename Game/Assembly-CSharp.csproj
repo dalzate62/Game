@@ -74,13 +74,13 @@
     <Compile Include="Assets\Scripts\Minero\MineroShoot.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerShoot.cs" />
     <Compile Include="Assets\Scripts\Minero\BullerMinero.cs" />
+    <Compile Include="Assets\Scripts\Player\Contacto.cs" />
     <Compile Include="Assets\Scripts\Gooba\DestroyPlayer.cs" />
     <Compile Include="Assets\Scripts\MainMenu\PlayerMenu.cs" />
+    <Compile Include="Assets\Scripts\Dieall.cs" />
     <Compile Include="Assets\Scripts\Heli\Transformacion.cs" />
     <Compile Include="Assets\Scripts\Gooba\GoobaMovement.cs" />
     <Compile Include="Assets\Scripts\Heli\TurtleShoot.cs" />
-    <Compile Include="Assets\Scripts\Player\Contacto.cs" />
-    <Compile Include="Assets\Scripts\Dieall.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
